@@ -1,0 +1,33 @@
+
+#     Data Mining Project mentoring     #
+#     Energy consumption data set       #
+
+
+- Research question?
+        - Yearly consumption + metadata:
+                - Find out if the metadata explains the yearly consumption
+                - which factors in metadata are imporant
+                - old building -> high consumption etc.
+        - Time series forecasting:
+                - Hourly data
+                - How accurately/how far ahead is it possible to forecast energy consumption
+                - model single buildings (ids) OR groups of buildings (postal code areas / building types)
+                - Neural networks, XGBoost, SVM, many models availble. Simple: ARIMA is classical time
+                  series modelling.
+        - Clustering patterns of consumption:
+                - Ready made libraries such as k-means clustering etc.
+                - Different buildings with similar weekly usage?
+                - Different typical daily patterns among single ids or among many buildings?
+
+- Next seminar:
+        - Presenting the research question.
+        - Why this research question? Describe the data to explain how it should be able to answer your
+          questions.
+        - Target 10 minutes. 
+
+- Sharing work:
+        - Nice practices: Should you have a project leader? Set deadlines for different steps.
+        - Coding things: Loading data, preprocessing, visualization, data mining
+        - Literature review
+        - Writing
+  

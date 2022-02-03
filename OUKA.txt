@@ -1,0 +1,36 @@
+"""
+Python code for fetching hourly energy consumption data from city of Oulu open
+data API. Here some placeholders are given for ids and years to load, and for
+the name of the output file (my_filename). Change these to fetch a different
+set of data.
+"""
+
+import urllib.request
+import pandas as pd
+from itertools import product
+
+hourly_url = "https://api.ouka.fi/v1/properties_consumption_hourly"
+
+def my_query(args):
+    """
+    Format a query using args: (id, year).
+    """
+    query = (hourly_url
+            + "?property_id=eq."
+            + str(args[0])
+            + "&year=eq."
+            + str(args[1])
+            )
+    return query
+
+ids = [602501, 614501]
+years = [2018, 2019, 2020]
+q_args = product(ids, years)
+# form a query per each id+year combination:
+queries = [my_query(p) for p in q_args]
+dfs = [pd.read_json(q) for q in queries] # fetch data for each query
+
+dfs_all = pd.concat(dfs)
+
+my_filename = "some_data_loaded_by_myself.csv"
+dfs_all.to_csv(my_filename, index=False)
