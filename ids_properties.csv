@@ -1,0 +1,540 @@
+property_id,property_name,intended_use,district_key,district_name,property_address,postal_code,postal_area,grossarea,totalgrossarea,volume,totalfloorarea,year_built,year_renovated,floorcount,attic_floorcount,keyfield
+675204,Ylikiimingin koulun kentän huoltorakennus,359 Muut urheilu- ja kuntoilurakennukset,16,Ylikiiminki,Opinkuja 4,91300,YLIKIIMINKI,0.0,0.0,0.0,0.0,1960,0,0,0,502794
+632117,"Kauppatori, makasiini nro 17",119 Muut myymälärakennukset,01,Keskusta,Kauppatori,90100,OULU,48.0,56.5,284.0,56.5,1700,0,0,0,502795
+663903,"Perinnetupa, Koitelinkoski",999 Muualla luokittelemattomat rakennukset,30,Kiiminki,Koitelinkoskentie 456,90900,KIIMINKI,104.0,114.0,404.0,104.0,1950,1997,0,0,502796
+675201,Ylikiimingin koulun yläkoulu,511 Yleissivistävien oppilaitosten rakennukset,16,Ylikiiminki,Harjutie 17 / Opinkuja 4,91300,YLIKIIMINKI,2079.0,2345.0,8540.0,2439.0,2004,0,3,0,502797
+647201,"Oulunsalon urheilukenttä, huoltorakennus",359 Muut urheilu- ja kuntoilurakennukset,40,Oulunsalo,Koulutie 2,90460,OULUNSALO,136.0,154.0,226.0,82.0,1981,0,0,0,502798
+675701,Ylikiimingin terveysasema,214 Terveyskeskukset,16,Ylikiiminki,Vesaisenlinnantie 2,91300,YLIKIIMINKI,844.0,975.0,3340.0,886.0,1989,0,0,0,502799
+656401,Martinniemen koulu ja kirjasto,511 Yleissivistävien oppilaitosten rakennukset,20,Haukipudas,Jokisuuntie 1,90850,MARTINNIEMI,3018.0,3415.0,14773.0,3298.0,1956,2005,0,0,502800
+688202,"Otokylän päiväkoti, varasto",231 Lasten päiväkodit,02,Höyhtyä,Hanhitie 17,90150,OULU,39.0,42.0,105.0,0.0,1980,0,0,0,502801
+656301,"Aseman koulu ja kirjasto, A-rakennus",511 Yleissivistävien oppilaitosten rakennukset,20,Haukipudas,Asemakylänraitti 1,90840,HAUKIPUDAS,939.0,1079.0,3438.0,1123.0,1957,2006,0,0,502802
+656501,Toimintakeskus Jatuli ja Vesi-Jatuli,352 Uimahallit,20,Haukipudas,Jokelantie 20,90830,HAUKIPUDAS,8635.0,9586.0,48100.0,9112.0,1979,0,0,0,502803
+646101,Pitkäkankaan päiväkoti,231 Lasten päiväkodit,40,Oulunsalo,Tuohikuja 3,90460,OULUNSALO,1288.0,1465.0,4827.0,1339.0,2001,0,1,0,502804
+610603,"Kalliolan päiväkoti, varasto",231 Lasten päiväkodit,08,Tuira,Valtatie 69,90500,OULU,28.0,30.0,84.0,0.0,1982,0,0,0,502805
+667801,Yli-Iin kirjasto,322 Kirjastot ja arkistot,50,Yli-Ii,Halametsä 1,91200,YLI-II,708.0,614.0,2750.0,813.0,1985,0,0,0,502806
+698501,Virpiniemen öljyntorjunta-asema,729 Muut palo- ja pelastustoimen rakennukset,20,Haukipudas,Mustakarintie 80,90810,KIVINIEMI,409.0,430.0,3205.0,0.0,2016,0,1,0,502807
+647606,"Varjakka, rantasauna (mantere)","141 Ravintolat, ruokalat, baarit, yms.",40,Oulunsalo,Varjakka,90470,VARJAKKA,19.0,19.0,57.0,19.0,0,1996,0,0,502808
+658004,"Haukiputaan varikko, katos",162 Kulkuneuvojen suoja- ja huoltorakennukset,20,Haukipudas,Simppulanharjuntie 17,90830,HAUKIPUDAS,0.0,0.0,0.0,0.0,0,0,0,0,502809
+612802,"Kuivasrannan päiväkoti, leikkipihan varasto",231 Lasten päiväkodit,12,Kaijonharju,Kuivasrannantie 6,90540,OULU,20.0,0.0,65.0,26.0,2006,0,1,0,502810
+658002,"Haukiputaan varikko, lämmin/kylmä halli",162 Kulkuneuvojen suoja- ja huoltorakennukset,20,Haukipudas,Simppulanharjuntie 17,90830,HAUKIPUDAS,130.0,130.0,0.0,0.0,0,0,0,0,502811
+623403,"Kastellin koulu, pumppaamo",,3,Oulunsuu,Kajaanintie 54,90230,OULU,0.0,0.0,0.0,0.0,0,0,0,0,502812
+668101,Yli-Iin paloasema,721 Paloasemat,50,Yli-Ii,Kirkkokuja 1,91200,YLI-II,616.0,682.0,2950.0,682.0,1997,0,0,0,502813
+646001,Salonpään päiväkoti,231 Lasten päiväkodit,40,Oulunsalo,Keskipiirintie 27,90470,VARJAKKA,288.0,337.0,1155.0,335.0,1991,2004,1,0,502814
+649828,"Varjakka, paritalo S-9 (saari)",999 Muualla luokittelemattomat rakennukset,40,Oulunsalo,Varjakka,90470,VARJAKKA,191.0,133.0,840.0,280.0,1920,0,0,0,502815
+667101,"Teknisen toimiston tukikohta, Yli-Ii",162 Kulkuneuvojen suoja- ja huoltorakennukset,50,Yli-Ii,Ruunatie 14,91200,YLI-II,437.0,270.0,877.0,224.0,1983,0,0,0,502816
+658001,Haukiputaan varikko,999 Muualla luokittelemattomat rakennukset,20,Haukipudas,Simppulanharjuntie 17,90830,HAUKIPUDAS,1511.0,1714.0,6205.0,0.0,1972,1983,0,0,502817
+668002,"Yli-Iin yleisurheilukeskus, huoltorakennus, varasto",359 Muut urheilu- ja kuntoilurakennukset,50,Yli-Ii,Tulisijantie,91200,YLI-II,83.0,90.0,412.0,85.0,2001,0,0,0,502818
+675301,Mustikan päiväkoti TYHJÄ,231 Lasten päiväkodit,16,Ylikiiminki,Hillikkotie 8,91300,YLIKIIMINKI,249.0,280.0,950.0,278.0,1985,0,0,0,502819
+677302,Vesalan vanha koulu,511 Yleissivistävien oppilaitosten rakennukset,16,Ylikiiminki,Valpastie 11,91300,YLIKIIMINKI,235.0,272.0,977.0,272.0,1920,2003,0,0,502820
+646201,Saloilan päiväkoti,231 Lasten päiväkodit,40,Oulunsalo,Tolvasenkuja 1,90460,OULUNSALO,852.0,988.0,3310.0,840.0,1986,0,1,0,502821
+656601,Pihlajakoti,221 Vanhainkodit,20,Haukipudas,Harjuntie 14 E,90830,HAUKIPUDAS,713.0,842.0,2453.0,691.0,1999,0,0,0,502822
+677002,"Pylkönaho, kuuluttamo",359 Muut urheilu- ja kuntoilurakennukset,16,Ylikiiminki,Puolangantie 107,91300,YLIKIIMINKI,34.0,39.0,148.0,0.0,1984,0,0,0,502823
+649832,"Varjakka, sauna ja liiteri S-11 (saari)",999 Muualla luokittelemattomat rakennukset,40,Oulunsalo,Varjakka,90470,VARJAKKA,41.0,94.0,150.0,50.0,1920,0,0,0,502824
+601302,"Ruskonselän paloasema, varasto",721 Paloasemat,15,Korvensuora,Tapsitie 4 B,90620,OULU,215.0,225.0,1414.0,0.0,2013,0,1,0,502825
+657302,"Kellon koulu ja päiväkoti, pihavaja",511 Yleissivistävien oppilaitosten rakennukset,20,Kello,Kylätie 6,90820,KELLO,22.0,0.0,0.0,0.0,2005,0,0,0,502826
+627801,"Rita-aukion koulu, uusi",511 Yleissivistävien oppilaitosten rakennukset,12,Kaijonharju,Rita-aukiontie 6,90540,OULU,2288.5,2542.5,13760.0,2454.5,2019,0,2,0,502827
+647604,"Varjakka, Lotina",013 Muut erilliset pientalot,40,Oulunsalo,Franzeninkuja 1,90470,VARJAKKA,134.0,166.0,498.0,166.0,0,1996,0,0,502828
+612704,"Kuukkelin päiväkoti, leikkimökki-varasto",231 Lasten päiväkodit,06,Kaakkuri,Hippiäiskuja 3,90420,OULU,4.0,4.0,44.0,0.0,2007,0,0,0,502829
+616301,Metsolan lastenkoti,222 Lasten- ja koulukodit,11,Pateniemi,Hämäläntie 15,90800,OULU,964.0,1105.0,4600.0,1105.0,2006,0,1,0,502830
+665403,"Kiiminkijoen päiväkoti, varasto",231 Lasten päiväkodit,30,Kiiminki,Raatinharjuntie 11,90900,KIIMINKI,14.0,16.0,44.0,35.0,0,0,0,0,502831
+647607,"Varjakka, piharakennus (mantere)",999 Muualla luokittelemattomat rakennukset,40,Oulunsalo,Varjakka,90470,VARJAKKA,762.0,762.0,0.0,0.0,0,1995,0,0,502832
+602003,"Kontinkankaan sairaala, B-talo",214 Terveyskeskukset,3,Oulunsuu,Kajaanintie 46,90220,OULU,1264.5,1890.0,7111.0,1474.0,1939,2018,0,0,502833
+657501,Ent. Oravan koulu,231 Lasten päiväkodit,21,Kello,Simunantie 15,90820,KELLO,689.0,804.0,3485.0,935.0,1887,2001,0,0,502834
+646601,Oulunsalon kirkonkylän koulu,511 Yleissivistävien oppilaitosten rakennukset,40,Oulunsalo,Koulutie 4,90460,OULUNSALO,5084.0,5714.0,25254.0,5426.0,1977,2003,0,0,502835
+647104,"Oulunsalon varikko, varastohalli",719 Muut varastorakennukset,40,Oulunsalo,Marjatie 66,90460,OULUNSALO,224.0,243.0,1237.0,229.0,1999,0,0,0,502836
+647901,Oulunsalon kotiseutumuseo,323 Museot ja taidegalleriat,40,Oulunsalo,Jääsköntie 5,90460,OULUNSALO,103.0,116.0,392.0,116.0,1870,0,0,0,502837
+612702,"Kuukkelin päiväkoti, pihavarasto 1",231 Lasten päiväkodit,06,Kaakkuri,Hippiäiskuja 3,90420,OULU,14.0,15.0,38.0,15.0,2007,0,0,0,502838
+611002,"Kaijonharjun päiväkoti Kanerva, varasto-jätekatos",231 Lasten päiväkodit,12,Kaijonharju,Kalevalantie 9,90570,OULU,21.0,24.0,91.0,0.0,2009,0,1,0,502839
+665401,Kiiminkijoen koulu,511 Yleissivistävien oppilaitosten rakennukset,30,Kiiminki,Raatinharjuntie 9,90900,KIIMINKI,4170.0,4585.0,17372.0,4610.0,1959,2010,0,0,502840
+614501,Intiön hoivakoti,221 Vanhainkodit,01,Keskusta,Upseerinkatu 2,90130,OULU,4488.0,5153.0,20700.0,4953.0,2005,0,4,0,502841
+620405,"Maikkulan yläkoulu, varasto/jätekatos",511 Yleissivistävien oppilaitosten rakennukset,07,Maikkula,Jatulikivenkatu 3,90240,OULU,24.0,25.0,72.0,0.0,2012,0,0,0,502842
+665402,Kiiminkijoen päiväkoti,231 Lasten päiväkodit,30,Kiiminki,Raatinharjuntie 11,90900,KIIMINKI,2092.0,2085.0,11009.0,2129.0,2013,0,0,0,502843
+668001,"Yli-Iin yleisurheilukeskus, huoltorakennus",359 Muut urheilu- ja kuntoilurakennukset,50,Yli-Ii,Tulisijantie,91200,YLI-II,142.0,163.0,497.0,163.0,1983,0,0,0,502844
+647102,"Oulunsalon varikko, konesuoja",162 Kulkuneuvojen suoja- ja huoltorakennukset,40,Oulunsalo,Marjatie 66,90460,OULUNSALO,311.0,318.0,1494.0,318.0,1993,0,0,0,502845
+612302,"Kuivasjärven päiväkoti, kiinteistövarasto",,12,Kaijonharju,Karppalantie 2,90540,Oulu,0.0,24.5,76.5,24.5,0,0,0,0,502846
+649822,"Varjakka, konttorin piharakennus (saari)",999 Muualla luokittelemattomat rakennukset,40,Oulunsalo,Varjakka,90470,VARJAKKA,83.0,95.0,354.0,0.0,1920,0,0,0,502847
+665002,"Alakylän koulu, B-rakennus",511 Yleissivistävien oppilaitosten rakennukset,30,Kiiminki,Huruntie 16,90910,KONTIO,886.0,1030.0,4008.0,812.5,1954,2009,0,0,502848
+622506,"Pateniemen alakoulu, F-rakennus, maakellari",999 Muualla luokittelemattomat rakennukset,11,Pateniemi,Risuniityntie 7,90800,OULU,0.0,47.0,0.0,0.0,1938,0,0,0,502849
+633702,"Kaakkurin monitoimitalo, varasto",322 Kirjastot ja arkistot,06,Kaakkuri,Pesätie 13,90420,OULU,14.0,16.0,45.0,17.0,2008,0,1,0,502850
+629202,"Raatin liikuntakeskus, stadion",359 Muut urheilu- ja kuntoilurakennukset,08,Tuira,Raatintie 2,90100,OULU,85.0,98.0,318.0,0.0,2011,0,0,0,502851
+602703,"Hiukkavaaran monitoimitalo, radiosisäverkko",,17,Hiukkavaara,Tahtimarssi 3,90650,OULU,0.0,0.0,0.0,0.0,0,0,0,0,502852
+649821,"Varjakka, konttori S-1 (saari)",999 Muualla luokittelemattomat rakennukset,MATK,Oulunsalo,Varjakka,90470,VARJAKKA,489.0,578.0,2010.0,610.0,1920,1996,0,0,502853
+657701,Takkurannan vanha koulu,511 Yleissivistävien oppilaitosten rakennukset,21,Kello,Takkurannantie 10,90820,KELLO,305.0,352.0,1372.0,341.0,1928,1980,0,0,502854
+656304,"Aseman koulu, D-rakennus",511 Yleissivistävien oppilaitosten rakennukset,20,Haukipudas,Asemakylänraitti 1,90840,HAUKIPUDAS,145.0,169.0,659.0,160.0,1936,0,0,0,502855
+608319,"Lassin päiväkoti, kiinteistövarasto/lastenvaunuvarasto",231 Lasten päiväkodit,08,Tuira,Koskitie 23,90500,OULU,12.0,0.0,0.0,0.0,0,0,0,0,502856
+693102,"Teknologiakylän päiväkoti, varasto",231 Lasten päiväkodit,12,Kaijonharju,Kaitoväylä 8,90570,OULU,0.0,0.0,0.0,0.0,0,0,0,0,502857
+668206,"Kierikkikeskus, huoltorakennus (Kivikauden kylä)",323 Museot ja taidegalleriat,50,Yli-Ii,Pahkalantie 447,91200,YLI-II,91.0,132.0,290.0,132.0,2000,0,0,0,502858
+649824,"Varjakka, paritalo S-5 (saari)",999 Muualla luokittelemattomat rakennukset,40,Oulunsalo,Varjakka,90470,VARJAKKA,195.0,235.0,775.0,280.0,1920,0,0,0,502859
+664201,Kiimingin hyvinvointikeskus,214 Terveyskeskukset,30,Kiiminki,Terveystie 1,90900,KIIMINKI,2977.0,3480.0,12300.0,3418.0,1979,2013,2,0,502860
+657305,"Kellon koulu ja päiväkoti, leikkimökki ja ulkoiluvälinevarasto",511 Yleissivistävien oppilaitosten rakennukset,21,Kello,Kylätie 6,90820,KELLO,14.0,16.0,57.0,0.0,2005,0,0,0,502861
+623504,"Talvikankaan päiväkoti ja koulu, vanha tilaelementti",511 Yleissivistävien oppilaitosten rakennukset,15,Korvensuora,Tuiskutie 10,90630,OULU,558.0,0.0,2216.0,549.0,2010,0,0,0,502862
+602501,Savotta-aukion päiväkoti,231 Lasten päiväkodit,06,Kaakkuri,Neitsytkorventie 20,90420,OULU,1958.0,2227.0,10602.0,2024.0,2012,0,2,0,502863
+649823,"Varjakka, Pudasjärven talo/asuntola S-13 (saari) ",999 Muualla luokittelemattomat rakennukset,40,Oulunsalo,Varjakka,90470,VARJAKKA,123.0,166.0,535.0,440.0,1800,0,0,0,502864
+649826,"Varjakka, paritalo S-7 (saari)",999 Muualla luokittelemattomat rakennukset,40,Oulunsalo,Varjakka,90470,VARJAKKA,187.0,143.0,840.0,280.0,1920,0,0,0,502865
+675202,Ylikiimingin koulun alakoulu,511 Yleissivistävien oppilaitosten rakennukset,16,Ylikiiminki,Opinkuja 4,91300,YLIKIIMINKI,2339.0,2637.0,7439.0,2297.0,1960,1989,4,0,502866
+667401,"Palvelukeskus Jokiranta, hoivatiimi",221 Vanhainkodit,50,Yli-Ii,Paratiisintie 30,91200,YLI-II,2193.0,2395.0,7590.0,2395.0,1966,2011,0,0,502867
+667901,"Keskuskoulun rivitalo A, Yli-Ii, varhaiskasvatuspalvelut",231 Lasten päiväkodit,50,Yli-Ii,Tulisijantie 2 A,91200,YLI-II,368.0,422.0,1225.0,387.0,1963,0,0,0,502868
+608318,"Lassin päiväkoti, leikkimökki",231 Lasten päiväkodit,08,Tuira,Koskitie 23,90500,OULU,5.0,0.0,0.0,0.0,0,0,0,0,502869
+665501,Jäälin monitoimitalo,511 Yleissivistävien oppilaitosten rakennukset,31,Jääli,Laivakankaantie 10,90940,JÄÄLI,9628.0,10827.0,52891.0,10411.0,2007,0,0,0,502870
+610702,"Herukan päiväkoti, varastot",231 Lasten päiväkodit,11,Pateniemi,Taskisentie 7,90800,OULU,13.5,0.0,0.0,0.0,1983,0,0,0,502871
+665301,Jäälin koulu TYHJÄ,511 Yleissivistävien oppilaitosten rakennukset,31,Jääli,Rivitie 11,90940,JÄÄLI,3866.0,4360.0,19736.0,4573.0,1977,1993,0,0,502872
+635201,Oulun hätäkeskus,729 Muut palo- ja pelastustoimen rakennukset,01,Keskusta,Pikkukankaantie 2,90130,OULU,1634.0,1868.5,9700.0,1635.5,2006,0,3,0,502873
+627202,"OuluZone moottoriurheilukeskus, tuomaritorni",359 Muut urheilu- ja kuntoilurakennukset,16,Ylikiiminki,Kuusamontie 3250,91310,ARKALA,59.0,71.2,204.0,71.2,2014,0,3,0,502874
+613301,Myllyojan päiväkoti,231 Lasten päiväkodit,13,Myllyoja,Karvarinaukio 16,90650,OULU,1192.0,1311.5,5380.0,1142.0,2016,0,2,0,502875
+649853,"Varjakka, piharakennus (Pyydyskari)",999 Muualla luokittelemattomat rakennukset,40,Oulunsalo,Varjakka,90470,VARJAKKA,100.0,100.0,0.0,0.0,0,0,0,0,502876
+647701,"Oulunsalon liikuntakeskus, palloiluhalli ja jäähalli",354 Monitoimihallit ja muut urheiluhallit,40,Oulunsalo,Tuohikuja 6,90460,OULUNSALO,5576.0,6007.0,37822.0,6007.0,1991,0,0,0,502877
+610602,"Kalliolan päiväkoti, jätehuoltotila",231 Lasten päiväkodit,08,Tuira,Valtatie 69,90500,OULU,18.0,19.0,71.0,0.0,1982,2012,0,0,502878
+602801,Talvikankaan koulu,511 Yleissivistävien oppilaitosten rakennukset,15,Korvensuora,Tuiskutie 11,90630,OULU,6651.0,7256.0,41970.0,7256.0,2016,0,3,0,502879
+667301,Yli-Iin hyvinvointipiste,214 Terveyskeskukset,50,Yli-Ii,Kirkkokuja 2,91200,YLI-II,727.0,800.0,2845.0,800.0,1988,0,0,0,502880
+623603,"Oulu International School / Oulun kansainvälinen koulu, jätevarasto",511 Yleissivistävien oppilaitosten rakennukset,01,Keskusta,Kasarmintie 4,90130,OULU,35.0,40.0,100.0,0.0,2006,0,1,0,502881
+675501,Pikku-Vesaisen päiväkoti,231 Lasten päiväkodit,16,Ylikiiminki,Aittokoskentie 14,91300,YLIKIIMINKI,295.0,341.0,1100.0,324.5,2005,0,2,0,502882
+611003,"Kaijonharjun päiväkoti Kanerva, leikkivälinevarasto",231 Lasten päiväkodit,12,Kaijonharju,Kalevalantie 9,90570,,10.0,11.0,44.0,10.6,2009,0,1,0,502883
+629291,"Raatin liikuntakeskus, huoltorakennus",359 Muut urheilu- ja kuntoilurakennukset,08,Tuira,Raatintie 2,90100,OULU,86.0,97.0,366.0,0.0,2011,0,0,0,502884
+628001,Ritaharjun monitoimitalo,511 Yleissivistävien oppilaitosten rakennukset,12,Kaijonharju,Ritakierros 2,90540,OULU,10714.0,11571.0,51000.0,10679.0,2010,0,2,0,502885
+602502,"Savotta-aukion päiväkoti, varasto 1",231 Lasten päiväkodit,6,Kaakkuri,Neitsytkorventie 20,90420,OULU,19.0,20.0,62.0,0.0,2012,0,0,0,502886
+628903,"Nuorten työpaja, ulko-/jätevarasto",511 Yleissivistävien oppilaitosten rakennukset,1,Keskusta,Tykistökatu 13-15,90130,OULU,0.0,0.0,0.0,0.0,2013,0,0,0,502887
+657301,Kellon koulu ja päiväkoti,511 Yleissivistävien oppilaitosten rakennukset,20,Kello,Kylätie 6,90820,KELLO,8432.0,9563.0,40270.0,9474.0,1959,1996,0,0,502888
+647202,"Oulunsalon urheilukenttä, kotipesä",359 Muut urheilu- ja kuntoilurakennukset,40,Oulunsalo,Koulutie 2,90460,OULUNSALO,41.0,49.0,121.0,46.0,1990,0,0,0,502889
+646401,Salonpään koulu TYHJÄ,511 Yleissivistävien oppilaitosten rakennukset,40,Oulunsalo,Keskipiirintie 9,90470,VARJAKKA,2030.0,2284.0,12420.0,2225.0,1969,2007,0,0,502890
+628901,Nuorten työpaja H4,511 Yleissivistävien oppilaitosten rakennukset,01,Keskusta,Tykistökatu 13-15,90130,OULU,1367.0,1549.0,5981.0,0.0,1959,2013,0,0,502891
+648201,Niemenrantatalo,511 Yleissivistävien oppilaitosten rakennukset,40,Oulunsalo,Nuottamiehentie 1,90460,OULUNSALO,4832.0,5339.0,30650.0,5339.0,2012,0,2,0,502892
+675206,Ylikiimingin päiväkoti,231 Lasten päiväkodit,16,Ylikiiminki,Opinkuja 2,91300,YLIKIIMINKI,459.0,501.0,2149.0,501.0,2019,0,1,0,502893
+647605,"Varjakka, paviljonki","141 Ravintolat, ruokalat, baarit, yms.",40,Oulunsalo,Varjakka,90470,VARJAKKA,0.0,216.0,750.0,250.0,0,2004,0,0,502894
+663704,"Myllyojan-Hintan asukastupa, varasto",013 Muut erilliset pientalot,13,Myllyoja,Jokivarrenpolku 5,90650,OULU,0.0,0.0,0.0,15.5,0,0,0,0,502895
+656201,Haukiputaan paloasema,721 Paloasemat,20,Haukipudas,Heitontie 1,90830,HAUKIPUDAS,1241.0,1714.0,7320.0,1600.0,2010,0,0,0,502896
+667501,Muurahaisen päiväkoti,231 Lasten päiväkodit,50,Yli-Ii,Halametsä 2,91200,YLI-II,300.0,308.0,1215.0,308.0,1987,0,0,0,502897
+655801,Tuomikoti ,221 Vanhainkodit,20,Haukipudas,Simppulanharjuntie 14 B,90830,HAUKIPUDAS,198.0,244.0,670.0,231.0,1992,0,0,0,502898
+664502,"Laivakankaan päiväkoti, varasto",231 Lasten päiväkodit,31,Jääli,Laivakankaantie 12,90940,JÄÄLI,60.0,64.0,180.0,0.0,2003,0,0,0,502899
+608402,"Värtön päiväkoti, kellari",999 Muualla luokittelemattomat rakennukset,3,Oulunsuu,Kurkelantie 9,90230,OULU,0.0,0.0,0.0,0.0,0,0,0,0,502900
+668201,"Kierikkikeskus, päärakennus",323 Museot ja taidegalleriat,50,Yli-Ii,Pahkalantie 447,91200,YLI-II,939.0,1040.0,6450.0,1040.0,2001,0,0,0,502901
+664001,Sotu-talo,229 Muut huoltolaitosrakennukset,30,Kiiminki,Honkiojantie 2,90900,KIIMINKI,111.0,135.0,434.0,135.0,1988,2005,0,0,502902
+630103,"Ainolan puutarha, kokoelmakasvihuone, va 6023",892 Kasvihuoneet,1,Keskusta,Kiikkusaari,90100,OULU,300.0,324.0,1021.0,0.0,1968,0,0,0,502903
+649831,"Varjakka, talli (saari) ",999 Muualla luokittelemattomat rakennukset,40,Oulunsalo,Varjakka,90470,VARJAKKA,110.0,163.0,482.0,0.0,1920,0,0,0,502904
+611902,"Syynimaan päiväkoti, varasto-jätekatos",231 Lasten päiväkodit,12,Kaijonharju,Taidonkaari 2,90570,OULU,14.0,0.0,0.0,0.0,0,0,0,0,502905
+664901,Kiimingin Syke-talo,322 Kirjastot ja arkistot,30,Kiiminki,Kirjastokuja 1,90900,KIIMINKI,1455.0,1711.0,6470.0,1542.0,1989,0,0,0,502906
+600801,Ympäristötalo ,151 Toimistorakennukset,02,Höyhtyä,Solistinkatu 2,90100,OULU,10382.0,11478.0,48318.0,7071.0,2011,0,1,0,502907
+657801,Länsituulen koulu,511 Yleissivistävien oppilaitosten rakennukset,20,Haukipudas,Länsikuja 2,90830,HAUKIPUDAS,7901.0,8916.0,40651.0,8584.0,2009,0,0,0,502908
+675101,Ylikiimingin paloasema,721 Paloasemat,16,Ylikiiminki,Metsätalontie 2,91300,YLIKIIMINKI,314.0,373.0,1870.0,364.0,1969,1991,0,0,502909
+667902,"Keskuskoulun rivitalo B, Yli-Ii",021 Rivitalot,50,Yli-Ii,Tulisijantie 2 B,91200,YLI-II,326.0,387.0,1115.0,338.0,1963,0,0,0,502910
+664602,"Tuokkosen päiväkoti, varasto",231 Lasten päiväkodit,31,Jääli,Kehätie 3,90940,JÄÄLI,44.0,47.0,155.0,44.0,1984,0,0,0,502911
+649829,"Varjakka, virkamiestalo (saari)",999 Muualla luokittelemattomat rakennukset,40,Oulunsalo,Franzeninkuja,90470,VARJAKKA,467.0,551.0,1848.0,0.0,1920,0,0,0,502912
+610202,"Simpsin päiväkoti, ulkoiluvälinevarasto",231 Lasten päiväkodit,10,Koskela,Purjehtijantie 12,90560,OULU,14.5,0.0,0.0,0.0,1981,2008,0,0,502913
+602901,"Teuvo Pakkalan katu 19, vapautuu 1.6.2020",,01,Keskusta,Teuvo Pakkalan katu 19,90130,OULU,8278.0,9297.5,0.0,9280.5,1956,0,3,0,502914
+649852,"Varjakka, sauna (Pyydyskari)",999 Muualla luokittelemattomat rakennukset,40,Oulunsalo,Varjakka,90470,VARJAKKA,14.0,14.0,0.0,0.0,0,0,0,0,502915
+665601,Tirinkylän koulu,511 Yleissivistävien oppilaitosten rakennukset,30,Kiiminki,Tirintie 97,90910,KONTIO,625.0,730.0,2828.0,835.0,1957,1989,0,0,502916
+612301,Kuivasjärven uusi päiväkoti,231 Lasten päiväkodit,12,Kaijonharju,Karppalantie 2,90540,OULU,913.0,1079.0,4354.5,987.0,2019,0,0,0,502917
+647001,Oulunsalon kunnantalo,151 Toimistorakennukset,40,Oulunsalo,Kauppiaantie 5,90460,OULUNSALO,2446.0,2827.0,10250.0,3020.0,1982,0,0,0,502918
+665703,"Ylikylän koulu, varasto",511 Yleissivistävien oppilaitosten rakennukset,30,Kiiminki,Ylikouluntie 2,90900,KIIMINKI,103.0,114.0,366.0,0.0,1952,1980,0,0,502919
+601301,Ruskonselän paloasema,721 Paloasemat,15,Korvensuora,Tapsitie 4 B,90620,OULU,1268.0,1425.0,5019.0,1668.0,2013,0,2,0,502920
+677301,Vesalan monitoimitalo,511 Yleissivistävien oppilaitosten rakennukset,16,Ylikiiminki,Valpastie 11,91300,YLIKIIMINKI,2695.0,3045.0,14838.0,2833.0,2010,0,0,0,502921
+664501,Laivakankaan päiväkoti,231 Lasten päiväkodit,30,Jääli,Laivakankaantie 12,90940,JÄÄLI,1073.0,1267.0,5308.0,1240.0,2003,0,1,0,502922
+600309,"Pehkolanlampi, savusauna",013 Muut erilliset pientalot,14,Sanginsuu,Peräkyläntie 225,90660,OULU,15.0,18.0,0.0,18.0,2013,0,0,0,502923
+620302,"Maikkulan alakoulu, jätekatos",511 Yleissivistävien oppilaitosten rakennukset,07,Maikkula,Maikkulanraitti 11,90240,OULU,27.0,29.0,82.0,0.0,2012,0,0,0,502924
+657102,"Jokikylän koulu, B-rakennus, esikoulu TYHJÄ",511 Yleissivistävien oppilaitosten rakennukset,20,Haukipudas,Jokikyläntie 41,90840,HAUKIPUDAS,136.0,162.0,629.0,165.0,1938,1998,0,0,502925
+646501,Pitkäkankaan koulu,511 Yleissivistävien oppilaitosten rakennukset,40,Oulunsalo,Opintie 6,90460,OULUNSALO,8274.0,9347.0,37260.0,8702.0,1983,1998,0,0,502926
+612101,Piparkakkutalo,231 Lasten päiväkodit,08,Tuira,Hupisaaret,90100,OULU,72.0,84.0,264.0,0.0,2012,0,0,0,502927
+647603,"Varjakka, Hulina","141 Ravintolat, ruokalat, baarit, yms.",40,Oulunsalo,Franzeninkuja,90470,VARJAKKA,0.0,134.0,498.0,166.0,1900,2015,0,0,502928
+667402,"Palvelukeskus Jokiranta, jätekatos",221 Vanhainkodit,50,Yli-Ii,Paratiisintie 30,91200,YLI-II,18.0,19.0,0.0,19.0,2011,0,0,0,502929
+602701,Hiukkavaaran monitoimitalo,511 Yleissivistävien oppilaitosten rakennukset,17,Hiukkavaara,Tahtimarssi 3,90650,OULU,10475.0,11320.0,60850.0,11320.0,2017,0,2,0,502930
+646801,Oulunsalon terveysasema,214 Terveyskeskukset,40,Oulunsalo,Kauppiaantie 10,90460,OULUNSALO,1702.0,1986.0,7819.0,1965.0,1980,1994,0,0,502931
+602704,"Hiukkavaaran monitoimitalo, ulkovarasto",,17,Hiukkavaara,Tahtimarssi 3,90650,OULU,0.0,150.0,200.0,150.0,0,0,1,0,502932
+667102,"Teknisen toimiston tukikohta, Yli-Ii, kylmä varasto",162 Kulkuneuvojen suoja- ja huoltorakennukset,50,Yli-Ii,Ruunatie 14,91200,YLI-II,200.0,221.0,578.0,174.0,1997,0,0,0,502933
+602504,"Savotta-aukion päiväkoti, varasto 3",231 Lasten päiväkodit,6,Kaakkuri,Neitsytkorventie 20,90420,OULU,4.0,5.0,13.0,0.0,2012,0,0,0,502934
+608320,"Lassin päiväkoti, jätekatos",231 Lasten päiväkodit,08,Tuira,Koskitie 23,90500,OULU,12.5,0.0,0.0,0.0,0,0,0,0,502935
+688204,"Otokylän päiväkoti, polkupyörä- ja jätekatos",231 Lasten päiväkodit,02,Höyhtyä,Hanhitie 17,90150,OULU,19.0,21.0,55.0,0.0,1996,0,0,0,502936
+656302,"Aseman koulu, B-rakennus",511 Yleissivistävien oppilaitosten rakennukset,20,Haukipudas,Asemakylänraitti 1,90840,HAUKIPUDAS,911.0,1018.0,3210.0,969.0,1957,2006,0,0,502937
+675205,Ylikiimingin urheilukentän katsomo,359 Muut urheilu- ja kuntoilurakennukset,16,Ylikiiminki,Opinkuja 4,91300,YLIKIIMINKI,0.0,0.0,0.0,0.0,1960,0,0,0,502938
+649843,"Varjakka, rantasauna (saari)",931 Saunarakennukset,40,Oulunsalo,Varjakka,90470,VARJAKKA,26.0,30.0,116.0,0.0,1960,0,0,0,502939
+655601,Martinniemen päiväkoti,231 Lasten päiväkodit,20,Haukipudas,Martinniementie 319,90850,MARTINNIEMI,3335.0,3739.0,14288.0,2363.0,2006,0,0,0,502940
+664603,"Tuokkosen päiväkoti, leikkikatos",231 Lasten päiväkodit,31,Jääli,Kehätie 3,90940,JÄÄLI,12.0,13.0,37.0,0.0,1984,0,0,0,502941
+658801,Haukiputaan yläkoulu,511 Yleissivistävien oppilaitosten rakennukset,20,Haukipudas,Mirjantie 4,90830,HAUKIPUDAS,4632.0,5171.0,22810.0,4736.5,2014,0,3,1,502942
+623602,"Oulu International School / Oulun kansainvälinen koulu, pihavarasto",511 Yleissivistävien oppilaitosten rakennukset,01,Keskusta,Kasarmintie 4,90130,OULU,69.0,78.0,200.0,0.0,2006,0,1,0,502943
+648202,"Niemenrantatalo, ulkovarasto/leikkimökki",511 Yleissivistävien oppilaitosten rakennukset,40,Oulunsalo,Nuottamiehentie 1,90460,OULUNSALO,29.0,0.0,0.0,0.0,2012,0,1,0,502944
+657101,"Jokikylän koulu, A-rakennus TYHJÄ",511 Yleissivistävien oppilaitosten rakennukset,20,Haukipudas,Jokikyläntie 41,90840,HAUKIPUDAS,326.0,383.0,1757.0,277.0,1938,1998,0,0,502945
+675203,"Ylikiimingin koulu, liikuntasali",511 Yleissivistävien oppilaitosten rakennukset,16,Ylikiiminki,Koulurinne 1,91300,YLIKIIMINKI,1476.0,1610.0,9800.0,1471.0,1989,0,0,0,502946
+619501,Kaakkurin urheilualueen huoltorakennus,359 Muut urheilu- ja kuntoilurakennukset,06,Kaakkuri,Kaakonpojankuja,90420,OULU,193.0,227.0,845.0,227.0,2011,0,1,0,502947
+647103,"Oulunsalon varikko, ulkovarasto",719 Muut varastorakennukset,40,Oulunsalo,Marjatie 66,90460,OULUNSALO,128.0,139.0,564.0,196.0,1981,0,0,0,502948
+628201,Pohjois-Ritaharjun koulu,511 Yleissivistävien oppilaitosten rakennukset,12,Kaijonharju,Riistakuja 2,90540,OULU,2594.0,3406.0,16640.0,2623.0,2016,0,1,1,502949
+664701,Vekara-ahon päiväkoti,231 Lasten päiväkodit,30,Kiiminki,Pikkukierto 2,90900,KIIMINKI,906.0,1043.0,3900.0,999.0,2001,0,1,0,502950
+655201,Simppulankartano,221 Vanhainkodit,20,Haukipudas,Simppulantie 15,90830,HAUKIPUDAS,1806.0,2059.0,7630.0,1907.0,1993,0,0,0,502951
+665602,"Tirinkylän koulu, varasto",511 Yleissivistävien oppilaitosten rakennukset,30,Kiiminki,Tirintie 97,90910,KONTIO,62.0,68.0,191.0,0.0,1957,0,0,0,502952
+688203,"Otokylän päiväkoti, varasto ja vaunukatos",231 Lasten päiväkodit,02,Höyhtyä,Hanhitie 17,90150,OULU,25.0,28.0,70.0,0.0,1996,0,0,0,502953
+646701,Oulunsalo-talo,511 Yleissivistävien oppilaitosten rakennukset,40,Oulunsalo,Mäntypellonpolku 10,90460,OULUNSALO,4198.0,4735.0,22900.0,4550.0,1993,0,0,0,502954
+665102,Huttukylän koulu B,511 Yleissivistävien oppilaitosten rakennukset,30,Kiiminki,Huttukylänkouluntie 66,90900,KIIMINKI,469.0,535.0,2624.0,0.0,1989,0,0,0,502955
+649830,"Varjakka, paloasema S-14 (saari)",999 Muualla luokittelemattomat rakennukset,40,Oulunsalo,Varjakka,90470,VARJAKKA,83.0,97.0,300.0,100.0,1920,0,0,0,502956
+664601,Tuokkosen päiväkoti,231 Lasten päiväkodit,31,Jääli,Kehätie 3,90940,JÄÄLI,1048.0,1219.0,4617.0,1400.0,1984,2011,0,0,502957
+665701,"Ylikylän koulu, A-rakennus",511 Yleissivistävien oppilaitosten rakennukset,30,Kiiminki,Ylikouluntie 2,90900,KIIMINKI,796.0,900.0,4594.0,0.0,1952,2002,0,0,502958
+665901,Kiimingin paloasema,721 Paloasemat,30,Kiiminki,Lempiniementie 2 C,90900,KIIMINKI,859.0,978.0,3237.0,912.0,1973,1992,0,0,502959
+665302,"Jäälin koulu, varasto",511 Yleissivistävien oppilaitosten rakennukset,31,Jääli,Rivitie 11,90940,JÄÄLI,105.0,112.0,369.0,0.0,1977,0,0,0,502960
+675601,"Ylikiimingin vanhainkoti, Päivölä ja Muistola",221 Vanhainkodit,16,Ylikiiminki,Vesaisenlinnantie 4,91300,YLIKIIMINKI,1217.0,1413.0,5334.0,1481.0,1985,0,0,0,502961
+658701,"Haukiputaan keskusurheilukenttä, huoltorakennus",359 Muut urheilu- ja kuntoilurakennukset,20,Haukipudas,Jokelantie 19,90830,HAUKIPUDAS,564.0,419.0,1217.0,419.0,1970,0,0,0,502962
+602503,"Savotta-aukion päiväkoti, varasto 2",231 Lasten päiväkodit,6,Kaakkuri,Neitsytkorventie 20,90420,OULU,6.0,7.0,20.0,0.0,2012,0,0,0,502963
+609503,"Merikosken päiväkoti, pihavarasto jätekatoksen yhteydessä",231 Lasten päiväkodit,08,Tuira,Kytkintie 5,90500,OULU,4.0,0.0,0.0,0.0,2004,0,0,0,502964
+618103,"Niittyaron urheilualue, uusi huoltorakennus",359 Muut urheilu- ja kuntoilurakennukset,10,Koskela,Kaarnatie 50,90530,OULU,324.95,386.0,1489.0,380.0,2018,0,1,0,502965
+655802,Koivukoti,221 Vanhainkodit,20,Haukipudas,Simppulanharjuntie 14 C,90830,HAUKIPUDAS,282.0,343.0,865.0,299.0,1992,0,0,0,502966
+677001,"Pylkönaho, hiihtokeskus",359 Muut urheilu- ja kuntoilurakennukset,16,Ylikiiminki,Puolangantie 107,91300,YLIKIIMINKI,131.0,152.0,463.0,100.0,1988,0,0,0,502967
+666801,Puiravankolmion huoltorakennus,359 Muut urheilu- ja kuntoilurakennukset,30,Kiiminki,Urheilutie,90900,KIIMINKI,143.0,163.0,362.0,125.0,2002,2007,0,0,502968
+658501,Virpiniemen hiihtomaja (kahvila-ravintola),"141 Ravintolat, ruokalat, baarit, yms.",20,Haukipudas,Virpiniementie 29,90810,KIVINIEMI,274.0,310.0,595.0,190.0,1953,1985,0,0,502969
+620902,"Pöllönkankaan koulu, jätekatos",511 Yleissivistävien oppilaitosten rakennukset,12,Kaijonharju,Kuovitie 13,90540,OULU,15.0,16.0,46.0,0.0,2012,0,0,0,502970
+655901,Proomupuiston päiväkoti ent. Santaholman koulu ,511 Yleissivistävien oppilaitosten rakennukset,20,Haukipudas,Santaholmantie 86,90830,HAUKIPUDAS,534.0,612.0,2040.0,599.0,1999,2009,0,0,502971
+666802,Puiravankolmion kuulutuskoppi,359 Muut urheilu- ja kuntoilurakennukset,30,Kiiminki,Urheilutie,90900,KIIMINKI,15.0,0.0,0.0,0.0,0,0,0,0,502972
+647101,"Oulunsalon varikko, varikkohalli ",162 Kulkuneuvojen suoja- ja huoltorakennukset,40,Oulunsalo,Marjatie 66,90460,OULUNSALO,354.0,394.0,1940.0,363.0,1981,0,0,0,502973
+612703,"Kuukkelin päiväkoti, pihavarastot 2",231 Lasten päiväkodit,06,Kaakkuri,Hippiäiskuja 3,90420,OULU,20.0,21.0,54.0,0.0,2007,0,0,0,502974
+649851,"Varjakka, asuinrakennus S-4 (Pyydyskari)",999 Muualla luokittelemattomat rakennukset,40,Oulunsalo,Varjakka,90470,VARJAKKA,200.0,115.0,435.0,145.0,1920,0,0,0,502975
+653802,"Koivuranta, sauna",041 Vapaa-ajan asuinrakennukset,08,Tuira,Pukseritie 7,90510,OULU,68.0,83.0,236.0,0.0,2004,0,0,0,502976
+664702,"Vekara-ahon päiväkoti, varasto",231 Lasten päiväkodit,30,Kiiminki,Pikkukierto 2,90900,KIIMINKI,21.0,23.0,75.0,0.0,2001,0,0,0,502977
+664301,Palvelukeskus Jaarankartano,221 Vanhainkodit,30,Kiiminki,Jaarantie 3,90900,KIIMINKI,2352.0,2746.0,8853.0,2744.0,1965,1994,0,0,502978
+656303,"Aseman koulu, C-rakennus",511 Yleissivistävien oppilaitosten rakennukset,20,Haukipudas,Asemakylänraitti 1,90840,HAUKIPUDAS,1051.0,1204.0,4724.0,1086.5,1957,2006,0,0,502979
+655102,"Huoltorakennus, Virpiniemi (ylämaja)",359 Muut urheilu- ja kuntoilurakennukset,20,Haukipudas,Virpiniementie 29,90810,KIVINIEMI,379.0,436.0,1656.0,440.0,1981,0,0,0,502980
+663901,"Tunnelmatupa, Koiteli",999 Muualla luokittelemattomat rakennukset,30,Kiiminki,Koitelinkoskentie 456,90900,KIIMINKI,50.0,56.0,253.0,79.0,2000,0,0,0,502981
+620903,"Pöllönkankaan koulu, varasto",511 Yleissivistävien oppilaitosten rakennukset,12,Kaijonharju,Kuovitie 13,90540,OULU,23.0,24.0,69.0,0.0,2012,0,0,0,502982
+664101,Kiimingin kunnantalo,151 Toimistorakennukset,30,Kiiminki,Lempiniementie 2 A,90900,KIIMINKI,1562.0,1795.0,6049.0,1792.0,1973,2009,0,0,502983
+619201,Heinäpään palloiluhalli,354 Monitoimihallit ja muut urheiluhallit,01,Keskusta,Nuottasaarentie 12,90400,OULU,8862.0,9096.0,151800.0,8730.0,2007,0,1,0,502984
+648101,Oulunsalon kirjasto (Kapteeni) ,322 Kirjastot ja arkistot,40,Oulunsalo,Karhuojantie 2,90460,OULUNSALO,1697.0,1883.0,7235.0,0.0,2005,0,0,0,502985
+614102,"Lintulan päiväkoti, varastot",231 Lasten päiväkodit,02,Höyhtyä,Kihokkitie 3,90150,OULU,14.0,0.0,0.0,0.0,1989,0,0,0,502986
+622105,"Heikkilänkankaan monitoimitalo, leikkimökki/pihavarasto",511 Yleissivistävien oppilaitosten rakennukset,07,Maikkula,Kyytipojantie 2,90310,OULU,7.0,0.0,0.0,0.0,0,0,0,0,502987
+665001,"Alakylän koulu, A-rakennus",511 Yleissivistävien oppilaitosten rakennukset,30,Kiiminki,Huruntie 16,90910,KONTIO,270.0,312.0,1207.0,282.5,1920,2009,0,0,502988
+664401,Honkimaan päiväkoti,231 Lasten päiväkodit,30,Kiiminki,Hiihtorinne 1,90900,KIIMINKI,1263.0,1453.0,5885.0,1335.0,2005,0,1,0,502989
+612801,Kuivasrannan päiväkoti,231 Lasten päiväkodit,12,Kaijonharju,Kuivasrannantie 6 A,90540,OULU,1830.0,1949.0,8000.0,1802.5,2006,0,1,0,502990
+647602,"Varjakka, Kapteenintalo","141 Ravintolat, ruokalat, baarit, yms.",40,Oulunsalo,Franzeninkuja,90470,VARJAKKA,269.0,269.0,807.0,269.0,0,0,0,0,502991
+612701,Kuukkelin päiväkoti,231 Lasten päiväkodit,06,Kaakkuri,Hippiäiskuja 3,90420,OULU,1238.0,1375.0,4995.0,1233.0,2006,0,0,0,502992
+665201,Jokirannan koulu,511 Yleissivistävien oppilaitosten rakennukset,30,Kiiminki,Jaarantie 4,90900,KIIMINKI,6329.0,6850.0,24818.5,6827.6,1969,2005,2,0,502993
+623801,Korpimetson koulu,511 Yleissivistävien oppilaitosten rakennukset,06,Kaakkuri,Metsänhoitajantie 10,90420,OULU,2562.0,3339.0,16370.0,2586.0,2016,0,1,1,502994
+667701,Yli-Iin koulu,511 Yleissivistävien oppilaitosten rakennukset,50,Yli-Ii,Karjalantie 15,91200,YLI-II,3822.0,4192.0,18562.0,3725.0,2010,2014,2,1,502995
+612303,"Kuivasjärven päiväkoti, pihavarasto",,12,Kaijonharju,Karppalantie 2,90540,Oulu,0.0,24.0,87.5,24.0,0,0,0,0,502996
+646602,Oulunsalon kirkonkylän puukoulu,511 Yleissivistävien oppilaitosten rakennukset,40,Oulunsalo,Koulutie 4,90460,OULUNSALO,219.0,253.0,896.0,256.0,1946,2006,0,0,502997
+628902,Nuorten työpaja H5,511 Yleissivistävien oppilaitosten rakennukset,1,Keskusta,Tykistökatu 13-15,90130,OULU,2280.0,2582.0,10168.0,0.0,1956,2013,0,0,502998
+649827,"Varjakka, paritalo S-8 (saari)",999 Muualla luokittelemattomat rakennukset,40,Oulunsalo,Varjakka,90470,VARJAKKA,187.0,133.0,840.0,280.0,1920,0,0,0,502999
+655803,Leppäkoti,221 Vanhainkodit,20,Haukipudas,Simppulanharjuntie 14 D,90830,HAUKIPUDAS,194.0,230.0,775.0,214.0,1992,0,0,0,503000
+667702,Liikuntahalli Vorelli,354 Monitoimihallit ja muut urheiluhallit,50,Yli-Ii,Tulisijantie 4,91200,YLI-II,1228.0,1354.0,9850.0,1354.0,1995,0,0,0,503001
+647801,Salonkartano,221 Vanhainkodit,40,Oulunsalo,Koulutie 7,90460,OULUNSALO,1990.0,2049.5,6564.5,1986.0,1996,2002,2,0,503002
+646301,"Päiväkoti Kuovit, Mäntypellonpolku 16",231 Lasten päiväkodit,40,Oulunsalo,Mäntypellonpolku 16,90460,OULUNSALO,318.0,379.0,1287.0,371.0,1975,0,0,0,503003
+602401,Rajakylän hoiva ja kirjasto,221 Vanhainkodit,11,Pateniemi,Ruiskukkatie 2,90580,OULU,5814.0,6861.0,27507.0,6025.0,2011,0,4,1,503004
+655401,Päiväkoti Jatulin Tarha,231 Lasten päiväkodit,20,Haukipudas,Jokelantie 18,90830,HAUKIPUDAS,2045.0,2356.0,9894.0,2264.0,2005,0,0,0,503005
+655301,Haukiputaan hyvinvointikeskus,214 Terveyskeskukset,20,Haukipudas,Simppulantie 15,90830,HAUKIPUDAS,4933.0,5640.0,19575.0,5474.0,1984,2016,0,0,503006
+622106,"Heikkilänkankaan monitoimitalo, grillikota",511 Yleissivistävien oppilaitosten rakennukset,07,Maikkula,Kyytipojantie 2,90310,OULU,0.0,0.0,0.0,0.0,0,0,0,0,503007
+658003,"Haukiputaan varikko, kylmä halli",162 Kulkuneuvojen suoja- ja huoltorakennukset,20,Haukipudas,Simppulanharjuntie 17,90830,HAUKIPUDAS,595.0,595.0,0.0,0.0,0,0,0,0,503008
+602601,Kastellin monitoimitalo,511 Yleissivistävien oppilaitosten rakennukset,03,Oulunsuu,Sairaalanrinne 5,90220,OULU,22364.0,24631.5,136140.0,24631.5,2014,0,2,1,503009
+657702,Takkurannan uusi koulu,511 Yleissivistävien oppilaitosten rakennukset,21,Kello,Takkurannantie 10,90820,KELLO,978.0,1119.0,5279.0,1040.0,1956,1999,0,0,503010
+663902,"Tanssilavarakennus, Koiteli",999 Muualla luokittelemattomat rakennukset,30,Kiiminki,Koitelinkoskentie 456,90900,KIIMINKI,83.0,88.0,306.0,83.0,2006,0,0,0,503011
+623701,Metsokankaan monitoimitalo,511 Yleissivistävien oppilaitosten rakennukset,06,Kaakkuri,Metsänhoitajantie 5,90420,OULU,9662.0,10359.0,47450.0,10359.0,2008,0,2,0,503012
+605301,Kaakkurin terveysasema,214 Terveyskeskukset,06,Kaakkuri,Pesätie 11,90420,OULU,1801.0,2081.0,9038.0,2081.0,2007,0,2,0,503013
+649825,"Varjakka, paritalo S-6 (saari)",999 Muualla luokittelemattomat rakennukset,40,Oulunsalo,Varjakka,90470,VARJAKKA,187.0,133.0,840.0,280.0,1920,0,0,0,503014
+633701,Kaakkurin monitoimitalo,322 Kirjastot ja arkistot,06,Kaakkuri,Pesätie 13,90420,OULU,1396.0,1542.0,8024.0,1424.0,2008,0,2,0,503015
+600701,Oulu10,151 Toimistorakennukset,01,Keskusta,Torikatu 10 A,90100,OULU,5364.0,5964.0,25215.0,4332.0,2008,0,4,0,503016
+675801,Ylikiimingin yhteistoimintakeskus,239 Muualla luokittelemattomat sosiaalitoimen rakennukset,16,Ylikiiminki,Rahikkotie 3,91300,YLIKIIMINKI,875.0,998.0,3040.0,870.0,1991,2007,0,0,503017
+626801,Hupisaarten kesäteatteri ,"311 Teatterit, ooppera-, konsertti- ja kongressitalot",01,Keskusta,Hupisaartenpolku 31,90100,OULU,0.0,0.0,0.0,225.0,2018,0,0,0,503018
+672301,Välikylän päiväkoti,231 Lasten päiväkodit,30,Kiiminki,Raivaajankuja 11-15,90940,JÄÄLI,1535.0,1748.0,7516.0,0.0,2010,0,0,0,503019
+665003,"Alakylän koulu, laajennusosa, C-rakennus",511 Yleissivistävien oppilaitosten rakennukset,30,Kiiminki,Huruntie 16,90910,KONTIO,634.0,700.0,4009.0,687.0,1995,0,0,0,503020
+631101,Poratien/Paljetien konehalli,719 Muut varastorakennukset,02,Höyhtyä,Paljetie 16,90150,OULU,604.0,604.0,4800.0,604.0,2018,0,1,0,503021
+623901,"Ukkometson koulu, uusi",511 Yleissivistävien oppilaitosten rakennukset,06,Kaakkuri,Metsänhoitajantie 8,90420,OULU,2488.0,2759.5,14840.0,2786.0,2019,0,0,0,503022
+665801,Kiimingin lukio,511 Yleissivistävien oppilaitosten rakennukset,30,Kiiminki,Urheilutie 12,90900,KIIMINKI,2306.0,2569.0,10083.0,2534.0,1987,2013,0,0,503023
+666601,Jäälin urheilukentän huoltorakennus,359 Muut urheilu- ja kuntoilurakennukset,31,Jääli,Jäälintie 6,90940,JÄÄLI,89.0,97.0,298.0,97.0,1978,0,0,0,503024
+672001,Kiimingin virastotalo B,,30,Kiiminki,Lempiniementie 2 B,90900,KIIMINKI,1034.0,0.0,3251.0,1059.0,1974,1988,0,0,503025
+602702,"Hiukkavaaran monitoimitalo, DNA laitetila",,17,Hiukkavaara,Tahtimarssi 3,90650,OULU,0.0,31.5,60.0,31.5,2017,0,1,0,503026
+627201,"OuluZone moottoriurheilukeskus, huoltorakennus",359 Muut urheilu- ja kuntoilurakennukset,16,Ylikiiminki,Kuusamontie 3250,91310,ARKALA,83.0,100.0,330.0,100.0,2014,0,0,0,503027
+655701,Simppulankartanon avoin päiväkoti,231 Lasten päiväkodit,20,Haukipudas,Simpuntie 11,90830,HAUKIPUDAS,528.0,622.0,1840.0,475.0,1880,1977,0,0,503028
+665101,Huttukylän koulu A,511 Yleissivistävien oppilaitosten rakennukset,30,Kiiminki,Huttukylänkouluntie 66,90900,KIIMINKI,222.0,259.0,1002.0,0.0,1920,1998,0,0,503029
+657201,Keiskan koulu,511 Yleissivistävien oppilaitosten rakennukset,20,Haukipudas,Keiskantie 25,90830,HAUKIPUDAS,846.0,977.0,2389.0,709.0,1929,1992,0,0,503030
+675001,Ylikiimingin kunnantalo,151 Toimistorakennukset,16,Ylikiiminki,Harjutie 18,91300,YLIKIIMINKI,1194.0,1382.0,4244.0,1130.0,1975,1975,2,0,503031
+604002,"Tuiran hyvinvointikeskus, pysäköintilaitos",163 Pysäköintitalot,08,Tuira,Kangastie 16,90500,OULU,1360.0,1420.0,4990.0,1420.0,2018,0,0,0,503032
+666701,Kiimingin urheilukentän huoltorakennus,359 Muut urheilu- ja kuntoilurakennukset,30,Kiiminki,Kisatie,90900,KIIMINKI,35.0,38.0,100.0,38.0,1948,0,0,0,503033
+646402,Salonpään puukoulu TYHJÄ,511 Yleissivistävien oppilaitosten rakennukset,40,Oulunsalo,Keskipiirintie 9,90470,VARJAKKA,384.0,448.0,1820.0,522.0,1918,1986,0,0,503034
+656001,Aseman päiväkoti,231 Lasten päiväkodit,20,Haukipudas,Torvelantie 23,90830,HAUKIPUDAS,515.0,595.0,1980.0,519.0,2002,0,0,0,503035
+657401,Kiviniemen koulu ja päiväkoti,511 Yleissivistävien oppilaitosten rakennukset,21,Kello,Uuvenperäntie 4,90810,KIVINIEMI,5054.0,5699.0,24931.0,5235.0,1950,2012,0,0,503036
+600101,Kaupungintalo,151 Toimistorakennukset,01,Keskusta,Kirkkokatu 2 ,90100,OULU,5279.0,6925.0,25500.0,5359.0,1887,2010,3,0,503037
+600201,Torikatu 10 B,151 Toimistorakennukset,01,Keskusta,Torikatu 10 B,90100,OULU,882.0,1018.0,3751.0,819.0,1988,2008,2,0,503038
+600301,"Pehkolanlampi, päärakennus",041 Vapaa-ajan asuinrakennukset,14,Sanginsuu,Peräkyläntie 225,90660,OULU,432.0,411.0,1480.0,411.0,1974,2011,1,0,503039
+600302,"Pehkolanlampi, talonmiehen asunto",013 Muut erilliset pientalot,14,Sanginsuu,Peräkyläntie  219,90660,OULU,82.0,97.0,290.0,97.0,1980,0,1,0,503040
+600303,"Pehkolanlampi, pikkusauna",041 Vapaa-ajan asuinrakennukset,14,Sanginsuu,Peräkyläntie 225,90660,OULU,29.0,36.0,108.0,36.0,1974,1996,1,0,503041
+600304,"Pehkolanlampi, isosauna",041 Vapaa-ajan asuinrakennukset,14,Sanginsuu,Peräkyläntie 225,90660,OULU,83.0,96.0,422.0,96.0,1979,1996,1,0,503042
+600305,"Pehkolanlampi, varasto",041 Vapaa-ajan asuinrakennukset,14,Sanginsuu,Peräkyläntie 225,90660,OULU,25.0,31.0,108.0,31.0,1982,0,1,0,503043
+600308,"Pehkolanlampi, talonmiehen asunnon varasto",013 Muut erilliset pientalot,14,Sanginsuu,Peräkyläntie 219,90660,OULU,8.0,9.0,21.0,9.0,1980,0,1,0,503044
+601101,Keskuspaloasema,721 Paloasemat,01,Keskusta,Pikkukankaantie 2,90130,OULU,9738.0,10689.0,41800.0,6328.0,1982,0,3,0,503045
+602001,Kontinkankaan hyvinvointikeskus A-G,214 Terveyskeskukset,03,Oulunsuu,Kajaanintie 46,90220,OULU,11047.0,13463.0,49529.0,11045.0,1939,2014,5,0,503046
+602002,"Kontinkankaan hyvinvointikeskus, D-rakennus (lamellitalo)",214 Terveyskeskukset,03,Oulunsuu,"Kajaanintie 48 A, B",90220,OULU,3208.0,4134.0,12138.0,3612.0,1939,1981,4,0,503047
+602006,"Kontinkankaan sairaala, C-rakennus, kappeli",214 Muut terveydenhuoltorakennukset,03,Oulunsuu,Kajaanintie 46,90220,OULU,132.0,181.0,790.0,181.0,1939,0,1,0,503048
+603003,"Tuiran sairaala, varasto",999 Muualla luokittelemattomat rakennukset,08,Tuira,Tuirantie 3,90500,OULU,28.0,33.0,100.0,33.0,1920,0,1,0,503049
+603004,"Tuiran sairaala, varasto",999 Muualla luokittelemattomat rakennukset,08,Tuira,Tuirantie 3,90500,OULU,36.0,41.0,193.0,41.0,1920,0,1,0,503050
+603018,"Tuiran sairaala, keittiön varasto",999 Muualla luokittelemattomat rakennukset,08,Tuira,Tuirantie 3,90500,OULU,0.0,102.0,400.0,102.0,1920,0,1,0,503051
+603019,"Tuiran sairaala, entinen keittiö ",999 Muualla luokittelemattomat rakennukset,08,Tuira,Tuirantie 3,90500,OULU,309.0,440.0,1315.0,305.0,1920,0,1,0,503052
+603020,"Tuiran sairaala-alue, ent. röntgen ja tsto",999 Muualla luokittelemattomat rakennukset,08,Tuira,Tuirantie 3,90500,OULU,262.0,239.0,946.0,239.0,1920,0,1,0,503053
+603021,"Tuiran sairaala, varasto ",999 Muualla luokittelemattomat rakennukset,08,Tuira,Tuirantie 3,90500,OULU,30.0,36.0,110.0,36.0,1920,0,1,0,503054
+603022,"Tuiran sairaala, varasto ",999 Muualla luokittelemattomat rakennukset,08,Tuira,Tuirantie 3,90500,OULU,0.0,90.0,270.0,90.0,1920,0,1,0,503055
+603025,"Tuiran sairaala, varasto autot ",999 Muualla luokittelemattomat rakennukset,08,Tuira,Tuirantie 3,90500,OULU,15.0,35.0,90.0,35.0,1920,0,1,0,503056
+603027,"Tuiran sairaala-alue, muuntamo ",613 Yhdyskuntatekniikan rakennukset,08,Tuira,Tuirantie 3,90500,OULU,0.0,9.0,27.0,9.0,1920,0,1,0,503057
+603028,"Tuiran sairaala, jääkellari ",999 Muualla luokittelemattomat rakennukset,08,Tuira,Tuirantie 3,90500,OULU,16.0,4.0,12.0,0.0,1920,0,0,0,503058
+604101,"Tuiran hyvinvointikeskus, pysäköintitalo",163 Pysäköintitalot,08,Tuira,Kangastie 14,90500,OULU,3513.0,3643.0,13650.0,3643.0,1997,0,3,0,503059
+605101,"Tuiran hyvinvointikeskus, Kangastie 12",214 Terveyskeskukset,08,Tuira,Kangastie 12,90500,OULU,2506.0,2902.0,10964.0,2641.0,1984,2020,2,0,503060
+605201,Rajakylän terveysasema,214 Terveyskeskukset,11,Pateniemi,Ruiskukkatie 4,90580,OULU,1365.0,1574.0,5651.0,1506.0,1978,1999,1,0,503061
+606001,Koskelan kirjasto ja neuvola,322 Kirjastot ja arkistot,10,Koskela,Tullimiehentie 4,90560,OULU,702.0,763.0,2438.0,763.0,1972,1987,2,0,503062
+606101,Pateniemen PAV-tukiasunnot,013 Muut erilliset pientalot,11,Pateniemi,Pyssysepäntie 2,90800,OULU,500.0,517.0,1467.0,346.0,1956,2012,2,0,503063
+606501,Myllyojan terveysasema,214 Terveyskeskukset,13,Myllyoja,Karvarinaukio 16,90650,OULU,1538.0,1765.0,6064.0,1654.0,1979,2003,1,0,503064
+607703,Hanhilehdon toimintakeskus (ent. Höyhtyän terveysasema),214 Terveyskeskukset,02,Höyhtyä,Hanhitie 15,90150,OULU,2208.0,1932.0,8643.0,1932.0,1990,2006,1,0,503065
+608101,Riekonmarjan päiväkoti,231 Lasten päiväkodit,11,Pateniemi,Hillatie 1,90800,OULU,723.0,826.0,2700.0,826.0,1996,0,1,0,503066
+608201,Mäntyrinteen päiväkoti,231 Lasten päiväkodit,07,Maikkula,Tuomolantie 5,90240,OULU,713.0,776.0,2680.0,776.0,1992,0,1,0,503067
+608202,"Mäntyrinteen päiväkoti, varasto",231 Lasten päiväkodit,07,Maikkula,Tuomolantie 5,90240,OULU,24.0,30.0,95.0,30.0,1992,0,1,0,503068
+608501,Korvensuoran päiväkoti,231 Lasten päiväkodit,15,Korvensuora,Koivikkotie 6,90630,OULU,808.0,939.0,3200.0,939.0,1991,0,1,0,503069
+608502,"Korvensuoran päiväkoti, varasto",231 Lasten päiväkodit,15,Korvensuora,Koivikkotie 6,90630,OULU,63.0,74.0,185.0,74.0,1991,0,1,0,503070
+608601,Sarasuon päiväkoti,231 Lasten päiväkodit,06,Kaakkuri,Sarasuontie 5,90410,OULU,1049.0,1229.0,4076.0,1229.0,1991,2009,1,0,503071
+608602,"Sarasuon päiväkoti, varasto",231 Lasten päiväkodit,06,Kaakkuri,Sarasuontie 5,90410,OULU,25.0,29.0,69.0,29.0,1991,0,1,0,503072
+608702,Ainolan päiväkoti,231 Lasten päiväkodit,01,Keskusta,Koulukatu 1,90100,OULU,1033.0,1053.0,3350.0,1053.0,1990,0,2,0,503073
+608703,"Ainolan päiväkoti, varasto",231 Lasten päiväkodit,01,Keskusta,Koulukatu 1,90100,OULU,16.0,23.0,52.0,23.0,1990,0,1,0,503074
+608704,"Ainolan päiväkoti, jätevarasto",231 Lasten päiväkodit,01,Keskusta,Koulukatu 1,90100,OULU,9.0,11.0,24.0,11.0,1990,0,1,0,503075
+608801,Taskilan päiväkoti,231 Lasten päiväkodit,10,Koskela,Kummelitie 16,90520,OULU,415.0,471.0,1600.0,471.0,1990,0,1,0,503076
+608802,"Taskilan päiväkoti, varasto",231 Lasten päiväkodit,10,Koskela,Kummelitie 16,90520,OULU,15.0,17.0,40.0,17.0,1990,0,1,0,503077
+608901,Ahvenojan päiväkoti,231 Lasten päiväkodit,12,Kaijonharju,Ratsastajantie 3,90540,OULU,617.0,726.0,2600.0,726.0,1990,0,1,0,503078
+608902,"Ahvenojan päiväkoti, varasto",231 Lasten päiväkodit,12,Kaijonharju,Ratsastajantie 3,90540,OULU,8.0,9.0,23.0,9.0,1990,0,1,0,503079
+609001,Allinpuiston päiväkoti,231 Lasten päiväkodit,02,Höyhtyä,Allitie 3,90150,OULU,1384.0,1580.0,4771.0,1701.0,1963,1987,2,0,503080
+609201,"Hintan päiväkoti, päärakennus",231 Lasten päiväkodit,13,Myllyoja,Valjastie 17,90650,OULU,906.0,981.0,2969.0,981.0,1968,2006,1,0,503081
+609202,Hintan ryhmäperhepäiväkoti Manteli ,231 Lasten päiväkodit,13,Myllyoja,Valjastie 17,90650,OULU,202.0,220.0,699.0,220.0,1968,2006,1,0,503082
+609203,Hintan hammashuoltola,214 Terveyskeskukset,13,Myllyoja,Valjastie 17,90650,OULU,242.0,273.0,815.0,273.0,1968,2007,1,0,503083
+609301,Kastellin päiväkoti,231 Lasten päiväkodit,03,Oulunsuu,Raharinnantie 32,90230,OULU,593.0,640.0,2433.0,561.0,1919,2005,2,0,503084
+609302,"Kastellin päiväkoti, asunto",013 Muut erilliset pientalot,03,Oulunsuu,Raharinnantie 32,90230,OULU,57.0,80.0,258.0,80.0,1919,1978,1,0,503085
+609303,"Kastellin päiväkoti, varasto",231 Lasten päiväkodit,03,Oulunsuu,Raharinnantie 32,90230,OULU,37.0,37.0,76.0,37.0,1919,0,1,0,503086
+609304,"Kastellin päiväkoti, kellari",231 Lasten päiväkodit,03,Oulunsuu,Raharinnantie 32,90230,OULU,14.0,14.0,30.0,14.0,1919,0,0,0,503087
+609501,Merikosken päiväkoti,231 Lasten päiväkodit,08,Tuira,Kytkintie 5,90500,OULU,1256.0,1355.0,4140.0,1227.0,1971,2004,1,0,503088
+609502,"Merikosken päiväkoti, leikkivälinevarasto",231 Lasten päiväkodit,08,Tuira,Kytkintie 5,90500,OULU,16.0,18.0,58.0,18.0,1980,0,1,0,503089
+609601,Rajakylän päiväkoti,231 Lasten päiväkodit,11,Pateniemi,Ruiskukkatie  1,90580,OULU,961.0,1024.0,3514.0,1024.0,1978,2006,1,0,503090
+609801,Kangaspuiston päiväkoti,231 Lasten päiväkodit,08,Tuira,Valtatie  35,90500,OULU,724.0,826.0,2940.0,826.0,1981,0,1,0,503091
+609802,"Kangaspuiston päiväkoti, piharakennus / varasto",231 Lasten päiväkodit,08,Tuira,Valtatie 35,90500,OULU,15.0,16.0,40.0,16.0,2006,0,1,0,503092
+610001,Puolivälinkankaan päiväkoti ja nuorisotilat,231 Lasten päiväkodit,09,Puolivälinkangas,Mielikintie 7,90550,OULU,1506.0,1704.0,6335.0,1618.0,1979,0,1,0,503093
+610201,Simpsin päiväkoti,231 Lasten päiväkodit,10,Koskela,Purjehtijantie 12,90560,OULU,1043.0,1118.5,4042.0,1118.5,1981,2008,1,0,503094
+610302,Sampolan päiväkoti,231 Lasten päiväkodit,12,Kaijonharju,Kullervontie 5,90570,OULU,913.0,1047.0,3440.0,987.0,1981,2016,1,0,503095
+610401,"Vihreän talon avoin päiväkoti, Hollihaka",231 Lasten päiväkodit,01,Keskusta,Uusikatu 27,90100,OULU,317.0,355.0,1391.0,355.0,1910,1982,1,0,503096
+610501,Haapalehdon päiväkoti,231 Lasten päiväkodit,13,Myllyoja,Manttaalitie 6,90650,OULU,1300.0,1441.0,5151.0,1441.0,1982,2007,1,0,503097
+610502,"Haapalehdon päiväkoti, Willamiina",231 Lasten päiväkodit,13,Myllyoja,Manttaalitie 6,90650,OULU,372.0,455.0,1507.0,455.0,1982,0,1,0,503098
+610503,"Haapalehdon päiväkoti, varasto",231 Lasten päiväkodit,13,Myllyoja,Manttalitie 6,90650,OULU,36.0,41.0,120.0,41.0,1982,0,1,0,503099
+610601,Kalliolan päiväkoti,231 Lasten päiväkodit,08,Tuira,Valtatie 69,90500,OULU,775.3,929.0,3572.0,915.0,1982,2012,2,0,503100
+610701,Herukan päiväkoti,231 Lasten päiväkodit,11,Pateniemi,Taskisentie 7,90800,OULU,737.0,875.0,3077.0,845.0,1983,2011,1,0,503101
+610801,Mäntylä-Snellman päiväkoti,231 Lasten päiväkodit,02,Höyhtyä,Snellmanintie 2,90150,OULU,1689.5,1797.0,6877.0,2082.0,1935,2018,3,0,503102
+610804,"Mäntylän päiväkoti, talli",231 Lasten päiväkodit,02,Höyhtyä,Snellmanintie 2,90150,OULU,109.0,122.0,364.0,122.0,1985,0,1,0,503103
+610805,"Mäntylän päiväkoti, varasto/kellari",231 Lasten päiväkodit,02,Höyhtyä,Snellmanintie 2,90150,OULU,69.0,77.0,259.0,143.0,1935,0,0,0,503104
+610806,"Mäntylän päiväkoti, varasto",231 Lasten päiväkodit,02,Höyhtyä,Snellmanintie 2,90150,OULU,41.0,43.0,150.0,46.0,1985,0,1,0,503105
+610807,"Mäntylän päiväkoti, varasto",231 Lasten päiväkodit,02,Höyhtyä,Snellmanintie 2,90150,OULU,103.0,113.0,294.0,121.0,1935,0,1,0,503106
+610901,Pöllökankaan päiväkoti,231 Lasten päiväkodit,12,Kaijonharju,Kuovitie 9,90540,OULU,852.0,965.0,3115.0,965.0,1984,0,2,0,503107
+610902,"Pöllökankaan päiväkoti, varasto",231 Lasten päiväkodit,12,Kaijonharju,Kuovitie 9,90540,OULU,61.0,68.0,170.0,68.0,1984,0,1,0,503108
+611001,Kaijonharjun päiväkoti Kanerva,231 Lasten päiväkodit,12,Kaijonharju,Kalevalantie 9,90570,OULU,733.0,829.0,2741.0,829.0,1984,2009,1,0,503109
+611101,Pateniemen päiväkoti,231 Lasten päiväkodit,11,Pateniemi,Temmitie 8,90800,OULU,646.0,738.0,2611.0,738.0,1985,0,1,0,503110
+611102,"Pateniemen päiväkoti, varasto",231 Lasten päiväkodit,11,Pateniemi,Temmitie 8,90800,OULU,11.0,14.0,38.0,14.0,1985,0,1,0,503111
+611231,Kisakentän päiväkoti,231 Lasten päiväkodit,08,Tuira,Koskitie 9,90500,OULU,1211.0,1396.0,4446.0,1396.0,1986,1998,1,0,503112
+611290,"Kisakentän päiväkoti, jätevarasto",231 Lasten päiväkodit,08,Tuira,Koskitie 9,90500,OULU,19.0,22.0,59.0,22.0,1986,0,1,0,503113
+611291,"Kisakentän päiväkoti, varasto",231 Lasten päiväkodit,08,Tuira,Koskitie 9,90500,OULU,6.0,8.0,21.0,8.0,1986,0,1,0,503114
+611601,Pikku-Iikan päiväkoti,231 Lasten päiväkodit,05,Nuottasaari,Pikku-Iikan katu 4,90120,OULU,781.0,899.0,3130.0,899.0,1988,0,1,0,503115
+611801,Kangaskontion päiväkoti,231 Lasten päiväkodit,07,Maikkula,Kangaskontiontie 15,90240,OULU,853.0,958.0,3420.0,958.0,1988,0,1,0,503116
+611802,"Kangaskontion päiväkoti, varastot",231 Lasten päiväkodit,07,Maikkula,Kangaskontiontie 15,90240,OULU,16.0,18.0,45.0,18.0,1988,0,1,0,503117
+611901,Syynimaan päiväkoti,231 Lasten päiväkodit,12,Kaijonharju,Taidonkaari 2,90570,OULU,750.0,828.0,2839.0,828.0,1989,0,1,0,503118
+612401,Kontinkankaan työkeskus,229 Muut huoltolaitosrakennukset,03,Oulunsuu,Kiviharjunlenkki 5,90230,OULU,1215.0,1516.0,4548.0,1516.0,1958,1987,2,0,503119
+612501,Kenttätien palvelukeskus,229 Muut huoltolaitosrakennukset,01,Keskusta,Nahkatehtaankatu 7,90130,OULU,1197.0,1504.0,5330.0,1504.0,1930,1997,2,0,503120
+613201,"Allimaria, mielenterveyspotilaiden asumispalveluyksikkö TYHJÄ",229 Muut huoltolaitosrakennukset,02,Höyhtyä,Allitie 1,90150,OULU,1452.0,1687.0,5219.0,1076.0,1958,1991,3,0,503121
+614001,"Hiirosenkoti, F-talo",239 Muualla luokittelemattomat sosiaalitoimen rakennukset,04,Kaukovainio,Merikotkantie 5,90250,OULU,674.0,700.0,2130.0,413.0,1957,1999,2,0,503122
+614002,Hiirosenkoti,221 Vanhainkodit,04,Kaukovainio,Merikotkantie 5,90250,OULU,12878.0,15408.0,51350.0,11456.0,1954,2014,3,1,503123
+614003,"Merikotkan päiväkoti, G-talo",231 Lasten päiväkodit,04,Kaukovainio,Merikotkantie 5,90250,OULU,1321.0,1464.0,4236.0,1141.0,1956,2008,3,0,503124
+614004,"Hiirosenkoti, maakellari",999 Muualla luokittelemattomat rakennukset,04,Kaukovainio,Merikotkantie 5,90250,OULU,471.0,215.0,1100.0,215.0,1957,0,1,0,503125
+614101,Lintulan päiväkoti,231 Lasten päiväkodit,02,Höyhtyä,Kihokkitie 3,90150,OULU,723.0,886.0,2950.0,886.0,1989,2008,1,0,503126
+614201,Pyykösjärven päiväkoti,231 Lasten päiväkodit,09,Puolivälinkangas,Järvenkorventie 6,90550,OULU,641.0,742.0,2704.0,666.0,1989,0,1,0,503127
+614601,"Timosen huoltokoti, päärakennus",229 Muut huoltolaitosrakennukset,15,Korvensuora,Timosenkoskentie 70,90630,OULU,438.0,501.0,1626.0,414.0,1920,2010,2,0,503128
+614604,"Timosen huoltokoti, asuntola 2",229 Muut huoltolaitosrakennukset,15,Korvensuora,Timosenkoskentie 70,90630,OULU,40.0,54.0,153.0,54.0,1920,2010,1,0,503129
+614605,"Timosen huoltokoti, piharakennus ",229 Muut huoltolaitosrakennukset,15,Korvensuora,Timosenkoskentie 70,90630,OULU,194.0,219.0,692.0,219.0,1920,1984,1,0,503130
+614607,"Timosen huoltokoti, sauna",229 Muut huoltolaitosrakennukset,15,Korvensuora,Timosenkoskentie 70,90630,OULU,80.0,114.0,318.0,114.0,1920,1984,2,0,503131
+614609,"Timosen huoltokoti, asuntola 1",229 Muut huoltolaitosrakennukset,15,Korvensuora,Timosenkoskentie 70,90630,OULU,195.0,222.0,723.0,222.0,1985,2010,1,0,503132
+614610,"Timosen huoltokoti, huoltorakennus",229 Muut huoltolaitosrakennukset,15,Korvensuora,Timosenkoskentie 70,90630,OULU,146.0,171.0,518.0,171.0,1985,0,1,0,503133
+615001,Lassintalon vanhainkoti,221 Vanhainkodit,08,Tuira,Myllytie 4,90500,OULU,3465.0,4230.0,13500.0,4230.0,1975,2003,4,0,503134
+615101,Kirkkotorin koulutuskeskus,"541 Järjestöjen, liitojen, työnantajien yms. opetusrakennukset,  kansan- ja työväenopistot",01,Keskusta,Asemakatu 5,90100,OULU,479.0,528.0,2640.0,508.0,1859,2007,1,0,503135
+616501,Byströmin talo,151 Toimistorakennukset,01,Keskusta,Hallituskatu 5 A / Aleksanterinkatu 7,90100,OULU,1997.0,2256.0,8020.0,1591.5,1898,2007,2,0,503136
+618001,"Heinäpään urheilupuisto, huoltorakennus",359 Muut urheilu- ja kuntoilurakennukset,01,Keskusta,Nuottasaarentie 12,90400,OULU,434.0,511.0,1822.0,511.0,1981,0,1,0,503137
+618102,"Niittyaron urheilualue, traktoritalli",162 Kulkuneuvojen suoja- ja huoltorakennukset,10,Koskela,Kaarnatie,90560,OULU,24.0,28.0,87.0,28.0,1983,0,1,0,503138
+618201,"Pateniemen urheilualue, huoltorakennus",359 Muut urheilu- ja kuntoilurakennukset,11,Pateniemi,Sahanhoitajantie,90800,OULU,246.0,280.0,1010.0,280.0,1995,0,1,0,503139
+618301,"Lintulan urheilupuisto, huoltorakennus",359 Muut urheilu- ja kuntoilurakennukset,02,Höyhtyä,Kaislakuja,90150,OULU,209.0,244.0,873.0,244.0,1987,0,1,0,503140
+618701,Linnanmaan liikuntahalli,354 Monitoimihallit ja muut urheiluhallit,12,Kaijonharju,Virkakatu 1,90570,OULU,3052.0,3301.0,26500.0,3301.0,1992,0,2,0,503141
+618901,"Maikkulan urheilualue, huoltorakennus",359 Muut urheilu- ja kuntoilurakennukset,07,Maikkula,Niemirannantie 9,90240,OULU,266.0,290.0,947.0,290.0,1997,0,1,0,503142
+620001,"Heinätorin koulu, päärakennus, A-rakennus",511 Yleissivistävien oppilaitosten rakennukset,01,Keskusta,Torikatu 45,90120,OULU,993.0,1227.0,6017.0,1227.0,1876,1981,2,0,503143
+620002,"Heinätorin koulu, E-rakennus",511 Yleissivistävien oppilaitosten rakennukset,01,Keskusta,Torikatu 45,90120,OULU,115.0,143.0,472.0,143.0,1876,1981,1,0,503144
+620003,"Heinätorin koulu, B-rakennus",511 Yleissivistävien oppilaitosten rakennukset,01,Keskusta,Torikatu 45,90120,OULU,112.0,151.0,651.0,151.0,1872,1981,1,0,503145
+620004,"Heinätorin koulu, D-rakennus",511 Yleissivistävien oppilaitosten rakennukset,01,Keskusta,Torikatu 45,90120,OULU,631.0,723.0,3916.0,723.0,1985,0,2,0,503146
+620005,"Heinätorin koulu, C-rakennus (tekniset tilat)",999 Muualla luokittelemattomat rakennukset,01,Keskusta,Torikatu 45,90120,OULU,35.0,48.0,145.0,48.0,1920,0,1,0,503147
+620006,"Heinätorin koulu, varasto, F-rakennus",511 Yleissivistävien oppilaitosten rakennukset,01,Keskusta,Torikatu 45,90120,OULU,42.0,48.0,298.0,48.0,1920,1981,1,0,503148
+620101,Kajaanintullin koulu,511 Yleissivistävien oppilaitosten rakennukset,01,Keskusta,Asemakatu 35,90100,OULU,497.0,519.0,2894.0,519.0,1893,2000,1,0,503149
+620102,"Kajaanintullin koulu, veisto",511 Yleissivistävien oppilaitosten rakennukset,01,Keskusta,Asemakatu 35,90100,OULU,315.0,306.0,1530.0,306.0,1830,2000,1,0,503150
+620201,Knuutilankankaan koulu ja päiväkoti,511 Yleissivistävien oppilaitosten rakennukset,07,Maikkula,Knuutilankankaantie 10,90230,OULU,2770.0,3122.0,11990.0,3000.0,1987,2014,2,0,503151
+620301,Maikkulan alakoulu,511 Yleissivistävien oppilaitosten rakennukset,07,Maikkula,Maikkulanraitti 11,90240,OULU,3039.0,3402.0,13801.0,3356.0,1989,0,2,0,503152
+620404,Maikkulan yläkoulu,511 Yleissivistävien oppilaitosten rakennukset,07,Maikkula,Jatulikivenkatu 3,90240,OULU,3813.0,4235.0,19059.0,4167.0,1991,0,2,0,503153
+620501,Oulunlahden koulu,511 Yleissivistävien oppilaitosten rakennukset,06,Kaakkuri,Fiskarintie 2,90410,OULU,1977.0,2165.0,9376.0,2165.0,1950,2010,1,0,503154
+620601,"Kuivasojan koulu, B-rakennus",511 Yleissivistävien oppilaitosten rakennukset,11,Pateniemi,Pateniementie 2,90800,OULU,404.0,481.0,1671.0,409.0,1920,1991,2,0,503155
+620602,"Kuivasojan koulu, A-rakennus",511 Yleissivistävien oppilaitosten rakennukset,11,Pateniemi,Pateniementie 2,90800,OULU,229.0,258.0,1129.0,258.0,1910,1991,1,0,503156
+620605,"Kuivasojan koulu, ulkovarasto",511 Yleissivistävien oppilaitosten rakennukset,11,Pateniemi,Pateniementie 2,90800,OULU,24.0,31.0,95.0,31.0,1992,0,1,0,503157
+620701,Hintan koulu,511 Yleissivistävien oppilaitosten rakennukset,13,Myllyoja,Valjastie 19,90650,OULU,4570.0,5118.0,21571.0,5323.0,1957,2003,4,0,503158
+620801,Kaukovainion yhtenäiskoulu / Hiirihaukkatalo,511 Yleissivistävien oppilaitosten rakennukset,04,Kaukovainio,Hiirihaukantie 4,90250,OULU,6425.0,7209.0,31059.0,7292.9,1970,2012,2,0,503159
+620901,Pöllönkankaan koulu,511 Yleissivistävien oppilaitosten rakennukset,12,Kaijonharju,Kuovitie 13,90540,OULU,6413.0,7251.0,28585.0,6857.0,1987,2009,2,0,503160
+621002,Timosenkosken luontokoulu,511 Yleissivistävien oppilaitosten rakennukset,15,Korvensuora,Timosenkoskentie 44,90630,OULU,221.0,284.0,983.0,254.0,1955,0,2,0,503161
+621005,"Timosenkosken luontokoulu, vaja",511 Yleissivistävien oppilaitosten rakennukset,15,Korvensuora,Timosenkoskentie 44,90630,OULU,0.0,45.0,180.0,45.0,1955,0,1,0,503162
+621201,Koskelan koulu,511 Yleissivistävien oppilaitosten rakennukset,10,Koskela,Tullimiehentie 8,90560,OULU,4032.0,4203.0,15548.0,4203.0,1971,2007,2,0,503163
+621301,Kuivasjärven koulu,511 Yleissivistävien oppilaitosten rakennukset,12,Kaijonharju,Karppalantie 1,90540,OULU,2854.0,3156.0,11008.0,2936.0,1969,2015,2,0,503164
+621401,Madekosken koulu,511 Yleissivistävien oppilaitosten rakennukset,07,Maikkula,Konttisentie 100,90310,OULU,2194.0,2405.0,9950.0,2405.0,1952,2012,2,1,503165
+621402,Madekosken vanha koulu,511 Yleissivistävien oppilaitosten rakennukset,07,Maikkula,Konttisentie 100,90310,OULU,180.0,223.0,1002.0,223.0,1911,1982,1,0,503166
+621503,"Merikosken koulu, Merituuli-yksikkö A, C-rakennus",511 Yleissivistävien oppilaitosten rakennukset,10,Koskela,Ruittukuja 4,90520,OULU,1046.0,1180.0,5347.0,1078.0,1996,2006,2,0,503167
+621575,"Merikosken koulu, Merituuli-yksikkö A, A-rakennus",511 Yleissivistävien oppilaitosten rakennukset,10,Koskela,Ruittukuja 4,90520,OULU,518.0,587.0,2642.0,587.0,1920,2007,1,0,503168
+621576,"Merikosken koulu, Merituuli-yksikkö A, B-rakennus",511 Yleissivistävien oppilaitosten rakennukset,10,Koskela,Ruittukuja 4,90520,OULU,545.0,614.0,2079.0,631.0,1949,2002,2,0,503169
+621601,Lintulammen koulu,511 Yleissivistävien oppilaitosten rakennukset,02,Höyhtyä,Haapanatie 33,90150,OULU,3421.0,3993.0,13919.0,3406.0,1958,1994,3,0,503170
+621901,Nuottasaari-talo,511 Yleissivistävien oppilaitosten rakennukset,05,Nuottasaari,Isokatu 94,90120,OULU,5834.0,6562.0,25886.0,3708.0,1965,2009,2,0,503171
+622001,Oulujoen koulu,511 Yleissivistävien oppilaitosten rakennukset,13,Myllyoja,Sangintie 129,90650,OULU,2245.0,2683.0,9888.0,1756.0,1947,1989,3,0,503172
+622201,Patamäen koulu,511 Yleissivistävien oppilaitosten rakennukset,07,Maikkula,Peltorinne 6,90240,OULU,1854.0,2032.0,7226.0,2032.0,1949,2005,2,0,503173
+622301,Paulaharjun koulu,511 Yleissivistävien oppilaitosten rakennukset,09,Puolivälinkangas,Mielikintie 9,90550,OULU,4833.0,5162.0,18384.0,4125.0,1961,2008,2,0,503174
+622401,Pikkaralan koulu,511 Yleissivistävien oppilaitosten rakennukset,07,Maikkula,Vasantie 121,90310,OULU,1134.0,1282.0,5159.0,1058.0,1952,1993,2,0,503175
+622501,"Pateniemen alakoulu, C-rakennus (ent. Herukan koulu)",511 Yleissivistävien oppilaitosten rakennukset,11,Pateniemi,Risuniityntie 7,90800,OULU,2768.0,2873.0,11504.0,2365.0,1952,2008,3,0,503176
+622502,"Pateniemen alakoulu, D-rakennus ",511 Yleissivistävien oppilaitosten rakennukset,11,Pateniemi,Risuniityntie 7,90800,OULU,692.0,781.0,2435.0,480.0,1952,1986,2,0,503177
+622504,"Pateniemen alakoulu, B-rakennus ",511 Yleissivistävien oppilaitosten rakennukset,11,Pateniemi,Risuniityntie 7,90800,OULU,529.0,592.0,2105.0,501.0,1938,2005,2,0,503178
+622506,"Pateniemen alakoulu, A-rakennus ",511 Yleissivistävien oppilaitosten rakennukset,11,Pateniemi,Risuniityntie 7,90800,OULU,932.0,1053.0,4009.0,1059.0,1999,0,1,0,503179
+622595,"Pateniemen alakoulu, E-rakennus, ulkoiluvälinevarasto",231 Lasten päiväkodit,11,Pateniemi,Risuniityntie 7,90800,OULU,65.0,89.0,296.0,89.0,1986,2000,1,0,503180
+622601,Sanginsuun koulu,511 Yleissivistävien oppilaitosten rakennukset,14,Sanginsuu,Sanginsuuntie 56,90660,OULU,566.0,594.0,2232.0,594.0,1956,1996,1,0,503181
+622606,Sanginsuun koulu,511 Yleissivistävien oppilaitosten rakennukset,14,Sanginsuu,Sanginsuuntie 56,90660,OULU,430.0,499.0,1434.0,250.0,1956,1996,1,0,503182
+622701,Teuvo Pakkalan koulu,511 Yleissivistävien oppilaitosten rakennukset,01,Keskusta,Teuvo Pakkalan katu 17,90130,OULU,3527.0,4172.0,16741.0,3284.0,1951,2006,3,0,503183
+622801,"Tuiran koulu, ruokalarakennus",511 Yleissivistävien oppilaitosten rakennukset,08,Tuira,Koskitie 27,90500,OULU,485.0,543.0,1933.0,510.0,1974,2006,1,0,503184
+622802,Tuiran koulu,511 Yleissivistävien oppilaitosten rakennukset,08,Tuira,Koskitie 27,90500,OULU,4521.0,5467.0,24330.0,5467.0,1930,2004,2,0,503185
+623001,Sarasuon koulu,511 Yleissivistävien oppilaitosten rakennukset,06,Kaakkuri,Sarasuontie 6,90410,OULU,1114.0,1211.0,4530.0,1211.0,1995,0,1,0,503186
+623101,Myllyojan koulu,511 Yleissivistävien oppilaitosten rakennukset,13,Myllyoja,Karvarinaukio 15,90650,OULU,3416.0,3798.0,14787.0,3455.0,1979,2007,1,0,503187
+623201,Hönttämäen koulu ja päiväkoti,511 Yleissivistävien oppilaitosten rakennukset,15,Korvensuora,Ruotukuja 1,90630,OULU,3075.0,3380.0,12758.0,3303.0,1983,2010,1,0,503188
+623301,"Lämsänjärven koulu, päiväkoti ja nuorisotila",511 Yleissivistävien oppilaitosten rakennukset,03,Oulunsuu,Lämsänjärventie 15,90230,OULU,1897.0,2069.0,7115.0,2069.0,1983,2007,1,0,503189
+623401,Oulunsuun koulu,511 Yleissivistävien oppilaitosten rakennukset,03,Oulunsuu,Kajaanintie 54,90230,OULU,4403.0,4652.0,20934.0,4352.0,1955,1984,5,0,503190
+623402,Kastellin koulu KYLMÄKSI SYKSY 2018,511 Yleissivistävien oppilaitosten rakennukset,03,Oulunsuu,Kajaanintie 54,90230,OULU,5265.0,6486.0,19925.0,5067.0,1964,1996,2,0,503191
+624001,Myllytullin koulu,511 Yleissivistävien oppilaitosten rakennukset,01,Keskusta,Isokatu 2,90100,OULU,5257.0,6790.0,24120.0,4667.0,1912,2007,3,0,503192
+624102,Rajakylän koulu ja nuorisotalo,511 Yleissivistävien oppilaitosten rakennukset,11,Pateniemi,Ruiskukkatie 4,90580,OULU,10026.0,11127.0,48236.0,9972.0,1977,2005,1,0,503193
+624601,Pohjankartano,511 Yleissivistävien oppilaitosten rakennukset,02,Höyhtyä,Suvantokatu 1,90140,OULU,13536.0,14913.0,42158.0,13247.0,1967,2015,3,0,503194
+624901,Oulun Suomalaisen Yhteiskoulun lukio,511 Yleissivistävien oppilaitosten rakennukset,01,Keskusta,Maunonkatu 1,90100,OULU,4509.0,5351.0,21050.0,3871.0,1908,2007,3,0,503195
+625001,Laanilan koulu,511 Yleissivistävien oppilaitosten rakennukset,13,Myllyoja,Hintantie 66,90650,OULU,6762.0,7590.0,27710.0,7590.0,1961,2002,3,0,503196
+625101,Merikosken koulu,511 Yleissivistävien oppilaitosten rakennukset,08,Tuira,Itäkangastie 9,90500,OULU,4656.0,5361.0,21433.0,4798.0,1955,2010,3,0,503197
+625201,Pateniemen yläkoulu ja kirjasto,511 Yleissivistävien oppilaitosten rakennukset,11,Pateniemi,Sahantie 2,90800,OULU,4643.0,5196.0,22000.0,4710.0,1968,2009,2,1,503198
+625301,"Merikosken koulu, Merituuli-yksikkö B, Ankkuri",511 Yleissivistävien oppilaitosten rakennukset,10,Koskela,Kauppaseurantie 2,90520,OULU,5404.0,5838.0,25439.0,5678.0,1966,2002,1,0,503199
+625401,Oulun Lyseon Lukio,511 Yleissivistävien oppilaitosten rakennukset,01,Keskusta,Kajaaninkatu 3,90100,OULU,3436.0,4011.0,18522.0,3437.0,1831,2007,2,0,503200
+625402,"Oulun Lyseon lukio, liikuntatilat",511 Yleissivistävien oppilaitosten rakennukset,01,Keskusta,Kajaaninkatu 3,90100,OULU,403.0,547.0,2339.0,547.0,1907,0,2,0,503201
+626001,Oulun pääkirjasto,322 Kirjastot ja arkistot,01,Keskusta,Kaarlenväylä 3,90100,OULU,6730.0,7539.0,36200.0,7060.0,1981,0,4,0,503202
+626101,Myllyojan kirjasto ja nuorisotalo,"331 Seura- ja kerhorakennukset, nuorisotalot",13,Myllyoja,Karvarinaukio 11,90650,OULU,942.0,1045.0,3820.0,1045.0,1980,2010,1,0,503203
+626501,Oulun kaupunginteatteri ,"311 Teatterit, ooppera-, konsertti- ja kongressitalot",01,Keskusta,Kaarlenväylä 2,90100,OULU,12069.0,14723.0,70300.0,13527.0,1972,2004,4,0,503204
+627101,Musiikkikeskus,"311 Teatterit, ooppera-, konsertti- ja kongressitalot",02,Höyhtyä,Leevi Madetojan katu 1-3,90140,OULU,5850.0,6506.0,40698.0,6482.0,1983,0,4,0,503205
+627501,Pohjois-Pohjanmaan museo,323 Museot ja taidegalleriat,01,Keskusta,Ainolanpolku 1,90130,OULU,2349.0,2799.0,10513.0,2799.0,1931,1985,3,0,503206
+627599,"Pohjois-Pohjanmaan museo, varasto",323 Museot ja taidegalleriat,01,Keskusta,Ainolanpolku 1,90130,OULU,12.0,15.0,43.0,15.0,1991,0,1,0,503207
+627901,Kaijonharjun monitoimikeskus,214 Terveyskeskukset,12,Kaijonharju,Kalevalantie  5,90570,OULU,3256.0,3748.0,15006.0,3744.0,1987,2010,2,0,503208
+627902,"Kaijonharjun monitoimikeskus, väestönsuoja","331 Seura- ja kerhorakennukset, nuorisotalot",12,Kaijonharju,Kalevalantie  5,90570,OULU,104.0,134.0,395.0,134.0,1987,0,0,0,503209
+628401,Toppilan liikuntatalo,359 Muut urheilu- ja kuntoilurakennukset,10,Koskela,Kauppaseurantie,90520,OULU,793.0,1029.0,4189.0,912.0,1937,2003,2,0,503210
+628701,"Koppanan leirikeskus, päärakennus",041 Vapaa-ajan asuinrakennukset,40,Oulunsalo,Nenännokka 83,90470,VARJAKKA,125.0,281.0,1270.0,281.0,1958,2006,1,0,503211
+628702,"Koppanan leirikeskus, sauna",041 Vapaa-ajan asuinrakennukset,40,Oulunsalo,Nenännokka 83,90470,VARJAKKA,29.0,35.0,86.0,35.0,1961,2006,1,0,503212
+628703,"Koppanan leirikeskus, keittokatos",041 Vapaa-ajan asuinrakennukset,40,Oulunsalo,Nenännokka 83,90470,VARJAKKA,29.0,33.0,90.0,33.0,1984,2006,1,0,503213
+628704,"Koppanan leirikeskus, kellari",041 Vapaa-ajan asuinrakennukset,40,Oulunsalo,Nenännokka 83,90470,VARJAKKA,4.0,5.0,11.0,5.0,1961,0,0,0,503214
+628706,"Koppana, Rahjan mökki ; Ei vuokrata",041 Vapaa-ajan asuinrakennukset,40,Oulunsalo,Nenännokka 83,90470,VARJAKKA,32.0,35.0,101.0,35.0,1961,0,1,0,503215
+628707,"Koppanan leirikeskus, venevaja",041 Vapaa-ajan asuinrakennukset,40,Oulunsalo,Nenännokka 83,90470,VARJAKKA,58.0,64.0,135.0,64.0,1961,0,1,0,503216
+629001,Oulun jäähalli,351 Jäähallit,01,Keskusta,Teuvo Pakkalan katu 11,90130,OULU,12656.0,13113.0,100000.0,10222.0,1975,2004,3,0,503217
+629101,Oulun uimahalli,352 Uimahallit,01,Keskusta,Pikkukankaantie 3,90130,OULU,10986.0,12376.0,63860.0,12376.0,1974,2001,2,0,503218
+629201,"Raatin liikuntakeskus, uimahalli ja katsomorakennus",352 Uimahallit,08,Tuira,Raatintie 2,90100,OULU,7311.0,8956.0,38815.0,6598.0,1959,2010,3,1,503219
+629301,Urheilutalo,359 Muut urheilu- ja kuntoilurakennukset,01,Keskusta,Kuusiluodonkatu 14,90100,OULU,3952.0,4087.0,22871.0,3746.0,1962,2005,2,0,503220
+629401,Honkapirtti,"331 Seura- ja kerhorakennukset, nuorisotalot",11,Pateniemi,Pateniementie 86,90800,OULU,1336.0,1484.0,7096.0,1291.0,1951,1994,2,0,503221
+629801,"Castrenin urheilupuisto, huoltorakennus",359 Muut urheilu- ja kuntoilurakennukset,09,Puolivälinkangas,Paulaharjuntie 43 ,90530,OULU,357.0,412.0,1320.0,412.0,1985,2006,1,0,503222
+629890,"Castrenin urheilupuisto, kylmävarasto",359 Muut urheilu- ja kuntoilurakennukset,09,Puolivälinkangas,Paulaharjuntie 43 ,90530,OULU,72.0,79.0,235.0,79.0,1985,0,1,0,503223
+629991,Tekojääkentän katsomorakennus,359 Muut urheilu- ja kuntoilurakennukset,01,Keskusta,Urheilukatu,90130,OULU,10.0,10.0,24.0,0.0,1997,0,1,0,503224
+630102,"Ainolan puutarha, maakellari, va 6023",999 Muualla luokittelemattomat rakennukset,01,Keskusta,Kiikkusaari,90100,OULU,47.0,80.0,200.0,80.0,1963,0,0,0,503225
+630104,"Ainolan puutarha, tuotantokasvihuone, va 6023",892 Kasvihuoneet,01,Keskusta,Kiikkusaari,90100,OULU,262.0,322.0,966.0,322.0,1968,1985,1,0,503226
+630130,Hupisaarten kahvila,719 Muut varastorakennukset,01,Keskusta,Kiikkusaari,90100,OULU,244.0,219.0,1215.0,219.0,1963,1985,1,0,503227
+630212,Kaupungin polttoainevarasto,719 Muut varastorakennukset,15,Korvensuora,Konetie 15,90650,OULU,0.0,192.0,770.0,192.0,1989,0,1,0,503228
+630455,"Kaupunginvarikko, varasto 3",719 Muut varastorakennukset,08,Tuira,Lipporannantie 2,90500,OULU,1436.0,1504.0,10006.0,1505.0,1977,0,1,0,503229
+630456,"Kaupunginvarikko, iso autohalli 4",162 Kulkuneuvojen suoja- ja huoltorakennukset,08,Tuira,Lipporannantie 2,90500,OULU,1424.0,1505.0,10236.0,1458.0,1978,0,1,0,503230
+630457,"Kaupunginvarikko, korjaamo ja huoltorakennus, lämmin",162 Kulkuneuvojen suoja- ja huoltorakennukset,08,Tuira,Lipporannantie 2,90500,OULU,7457.0,8043.0,46752.0,6650.0,1960,1979,2,0,503231
+630459,"Kaupunginvarikko, varasto 2",719 Muut varastorakennukset,08,Tuira,Lipporannantie 2,90500,OULU,665.0,714.0,2714.0,700.0,1960,0,1,0,503232
+630460,"Kaupunginvarikko, varasto 1",719 Muut varastorakennukset,08,Tuira,Lipporannantie 2,90500,OULU,669.0,708.0,2691.0,700.0,1960,0,1,0,503233
+630801,Poratien tukikohta,162 Kulkuneuvojen suoja- ja huoltorakennukset,02,Höyhtyä,Poratie 10,90150,OULU,3050.0,3381.0,15222.0,3153.0,1971,0,2,0,503234
+630902,"Oulun Tilapalvelut, Sorvitie 5",151 Toimistorakennukset,02,Höyhtyä,Sorvitie 5,90150,OULU,3134.0,3486.0,13302.0,3621.0,1971,1995,2,0,503235
+630903,"Oulun Tilapalvelut, Sorvitie 5, pieni varasto",719 Muut varastorakennukset,02,Höyhtyä,Sorvitie 5,90150,OULU,147.0,152.0,532.0,152.0,1984,0,1,0,503236
+630904,"Oulun Tilapalvelut, Sorvitie 5, iso varasto",719 Muut varastorakennukset,02,Höyhtyä,Sorvitie 5,90150,OULU,726.0,744.0,3980.0,744.0,1992,0,1,0,503237
+631001,Tuiran kuntoutuskoti,229 Muut huoltolaitosrakennukset,08,Tuira,Koskitie 4,90500,OULU,649.0,803.0,2350.0,592.0,1938,1984,2,0,503238
+631301,Ouluhalli,354 Monitoimihallit ja muut urheiluhallit,01,Keskusta,Ylioppilaantie 4,90130,OULU,13056.0,12073.0,161640.0,12073.0,1986,2007,2,0,503239
+632001,Tähtitorni,323 Museot ja taidegalleriat,08,Tuira,Linnansaari,90100,OULU,138.0,177.0,599.0,177.0,1875,2011,3,0,503240
+632108,"Kauppatori, makasiini nro 18",119 Muut myymälärakennukset,01,Keskusta,Kauppatori,90100,OULU,114.0,87.0,365.0,87.0,1700,0,2,0,503241
+632121,"Kauppatori, makasiini nro 7",119 Muut myymälärakennukset,01,Keskusta,Kauppatori,90100,OULU,81.0,91.0,255.0,91.0,1850,0,2,0,503242
+632124,"Kauppatori, makasiini nro 15",119 Muut myymälärakennukset,01,Keskusta,Kauppatori,90100,OULU,128.0,102.0,365.0,102.0,1700,0,2,0,503243
+632113,"Kauppatori, makasiini nro 23",119 Muut myymälärakennukset,01,Keskusta,Kauppatori,90100,OULU,82.0,99.0,355.0,99.0,1700,0,2,0,503244
+632114,"Kauppatori, makasiini nro 24",119 Muut myymälärakennukset,01,Keskusta,Kauppatori,90100,OULU,90.0,93.0,333.0,93.0,1700,0,2,0,503245
+632120,"Kauppatori, makasiini nro 20",119 Muut myymälärakennukset,01,Keskusta,Kauppatori,90100,OULU,115.0,95.0,340.0,95.0,1700,0,2,0,503246
+632112,"Kauppatori, makasiini nro 12",119 Muut myymälärakennukset,01,Keskusta,Kauppatori,90100,OULU,108.0,105.0,375.0,105.0,1700,0,2,0,503247
+632104,"Kauppatori, makasiini nro 4",119 Muut myymälärakennukset,01,Keskusta,Kauppatori,90100,OULU,94.0,100.0,284.0,100.0,1700,0,2,0,503248
+632171,"Kauppatori, makasiini nro 14",119 Muut myymälärakennukset,01,Keskusta,Kauppatori,90100,OULU,615.0,540.0,1442.0,540.0,1700,0,3,0,503249
+632105,"Kauppatori, makasiini nro 5",119 Muut myymälärakennukset,01,Keskusta,Kauppatori,90100,OULU,73.0,78.0,201.0,78.0,1700,0,2,0,503250
+632110,"Kauppatori, makasiini nro 10",119 Muut myymälärakennukset,01,Keskusta,Kauppatori,90100,OULU,40.0,50.0,129.0,50.0,1700,0,2,0,503251
+632103,"Kauppatori, makasiini nro 1",119 Muut myymälärakennukset,01,Keskusta,Kauppatori,90100,OULU,283.0,190.0,681.0,190.0,1700,0,2,0,503252
+632119,"Kauppatori, makasiini nro 19",119 Muut myymälärakennukset,01,Keskusta,Kauppatori,90100,OULU,86.0,68.0,173.0,68.0,1700,0,2,0,503253
+632122,"Kauppatori, makasiini nro 8",119 Muut myymälärakennukset,01,Keskusta,Kauppatori,90100,OULU,43.0,50.0,129.0,50.0,1700,0,2,0,503254
+632118,"Kauppatori, makasiini nro 16",119 Muut myymälärakennukset,01,Keskusta,Kauppatori,90100,OULU,46.0,60.0,168.0,60.0,1850,0,2,0,503255
+632123,"Kauppatori, makasiini nro 11",119 Muut myymälärakennukset,01,Keskusta,Kauppatori,90100,OULU,59.0,68.0,190.0,68.0,1850,0,2,0,503256
+632501,Kauppahalli ; peruskorjaus 2.1.2019 alkaen,111 Myymälähallit,01,Keskusta,Saaristonkatu 1 C,90100,OULU,1050.0,1272.0,7311.0,1272.0,1920,1995,2,0,503257
+632902,"Tukkisaari, venevaja ",719 Muut varastorakennukset,08,Tuira,Tukkisaarenkuja,90500,OULU,0.0,55.0,150.0,55.0,1920,0,1,0,503258
+633101,Kulttuuritalo Valve,369 Muut kokoontumisrakennukset,01,Keskusta,Ojakatu 4,90100,OULU,4936.0,5519.0,23510.0,4187.0,1860,2004,3,0,503259
+633604,"Ruskon aluetukikohta, sosiaalitilat ja toimisto",151 Toimistorakennukset,15,Korvensuora,Kiilletie 7,90620,OULU,828.0,965.0,3274.0,680.0,1988,0,1,0,503260
+633606,"Ruskon aluetukikohta, konehalli",162 Kulkuneuvojen suoja- ja huoltorakennukset,15,Korvensuora,Kiilletie 7,90620,OULU,1075.0,1125.0,6898.0,1125.0,1988,0,2,0,503261
+633608,"Ruskon aluetukikohta, varasto",719 Muut varastorakennukset,15,Korvensuora,Kiilletie 7,90620,OULU,615.0,650.0,3730.0,650.0,1994,0,1,0,503262
+633699,"Ruskon aluetukikohta, kaarihalli, kylmä",162 Kulkuneuvojen suoja- ja huoltorakennukset,15,Korvensuora,Kiilletie 7,90620,OULU,550.0,589.0,3583.0,589.0,1988,0,1,0,503263
+610810,Mäntylän päiväkoti,231 Lasten päiväkodit,02,Höyhtyä,Snellmanintie  2,90150,OULU,631.0,726.0,2228.0,660.0,1956,2007,2,0,503264
+634601,Lasten Liikennepuisto,719 Muut varastorakennukset,01,Keskusta,Rantakatu 19,90100,OULU,18.0,72.0,190.0,72.0,1970,2018,1,0,503265
+634801,Taidemuseo,323 Museot ja taidegalleriat,01,Keskusta,Kasarmintie 7,90130,OULU,3431.0,4030.0,19104.0,3686.0,1880,2008,3,0,503266
+635401,"Toimisto- ja varastorakennus, Sälpätie 1",719 Muut varastorakennukset,15,Korvensuora,Sälpätie 1,90620,OULU,113.0,131.0,525.0,131.0,1950,0,1,0,503267
+635501,Pohjois-Pohjanmaan museon varasto,719 Muut varastorakennukset,15,Korvensuora,Konetie 33,90620,OULU,2256.0,2472.0,13090.0,2472.0,1986,0,2,0,503268
+636701,Aleksinkulma,"331 Seura- ja kerhorakennukset, nuorisotalot",01,Keskusta,Hallituskatu 6,90100,OULU,1625.0,1818.0,6433.0,1422.0,1880,1998,2,0,503269
+636801,Tuiran uimala,359 Muut urheilu- ja kuntoilurakennukset,08,Tuira,Koskitie 58,90500,OULU,201.0,234.0,703.0,234.0,1984,0,1,0,503270
+636901,"Työmaatukikohta, Poratie 11",162 Kulkuneuvojen suoja- ja huoltorakennukset,02,Höyhtyä,Poratie 11,90150,OULU,883.0,923.0,5780.0,923.0,1980,0,1,0,503271
+640301,"Tietomaa, hallintokeskus",151 Toimistorakennukset,01,Keskusta,Nahkatehtaankatu 6,90130,OULU,2863.0,3560.0,13534.0,3560.0,1923,1998,4,0,503272
+640302,"Tietomaa, tiedeteatteri",369 Muut kokoontumisrakennukset,01,Keskusta,Makasiinikatu 5,90130,OULU,763.0,939.0,5306.0,659.0,1988,0,2,0,503273
+640401,Värtön liikuntahalli,354 Monitoimihallit ja muut urheiluhallit,03,Oulunsuu,Kurkelantie 7,90230,OULU,2586.0,2775.0,15422.0,2750.0,1970,2002,1,0,503274
+644801,Matilan talo,323 Museot ja taidegalleriat,08,Tuira,Pikisaarentie 6,90100,OULU,91.0,107.0,482.0,107.0,1740,2018,1,0,503275
+645201,"Makasiini, Sokeri-Jussi  ","141 Ravintolat, ruokalat, baarit, yms.",08,Tuira,Pikisaarentie 2,90100,OULU,242.0,242.0,780.0,242.0,1892,0,2,0,503276
+660901,Meri-Toppilan päiväkoti ja nuorisotalo,231 Lasten päiväkodit,10,Koskela,Kuivaamokatu 6,90520,OULU,960.0,1175.0,4400.0,1175.0,1936,1998,2,0,503277
+688201,Otokylän päiväkoti,231 Lasten päiväkodit,02,Höyhtyä,Hanhitie 17,90150,OULU,627.0,672.0,2218.0,672.0,1980,2011,1,0,503278
+604001,"Tuiran hyvinvointikeskus, Kangastie 16",214 Terveyskeskukset,08,Tuira,Kangastie 16,90500,OULU,7049.0,8350.0,30300.0,7240.0,1998,2019,4,0,503279
+608001,Oulunlahden päiväkoti ja koulu,231 Lasten päiväkodit,06,Kaakkuri,Santerinkuja 4,90410,OULU,1372.0,1562.0,6500.0,1545.0,1998,2012,1,0,503280
+616201,Onnela; vapautuu 1.4.2019,222 Lasten- ja koulukodit,07,Maikkula,Onnelantie 6,90230,OULU,695.0,827.5,2717.0,827.5,1968,2011,1,0,503281
+626701,Pateniemen sahamuseo,323 Museot ja taidegalleriat,11,Pateniemi,Sahantie 21,90800,OULU,288.0,310.0,1405.0,310.0,1920,1989,3,0,503282
+618801,Pesäpallostadion,359 Muut urheilu- ja kuntoilurakennukset,01,Keskusta,Raksilan urheilualue,90130,OULU,836.0,1142.0,3300.0,1142.0,1997,0,2,0,503283
+653801,"Koivuranta, päärakennus",041 Vapaa-ajan asuinrakennukset,08,Tuira,Pukseritie 7,90510,OULU,131.0,154.0,456.0,154.0,1916,2003,0,0,503284
+645701,Vanha villatehdas,999 Muualla luokittelemattomat rakennukset,08,Tuira,Pikisaarentie 17,90100,OULU,1876.0,2145.0,8593.0,2145.0,1977,1998,4,0,503285
+645702,"Vanha villatehdas, rak. 2",999 Muualla luokittelemattomat rakennukset,08,Tuira,Pikisaarentie 17,90100,OULU,0.0,222.0,1704.0,222.0,1898,0,1,0,503286
+660902,"Meri-Toppilan päiväkoti, VSS",231 Lasten päiväkodit,10,Koskela,Kuivaamokatu 6,90520,OULU,38.0,40.0,140.0,40.0,1998,0,0,0,503287
+629002,"Oulun jäähalli, huoltorakennus",162 Kulkuneuvojen suoja- ja huoltorakennukset,01,Keskusta,Teuvo Pakkalan katu 11,90130,OULU,583.0,614.0,3099.0,614.0,1997,0,0,0,503288
+608002,"Oulunlahden päiväkoti ja koulu, varasto",231 Lasten päiväkodit,06,Kaakkuri,Santerinkuja 4,90410,OULU,31.0,37.0,113.0,37.0,1998,0,0,0,503289
+632701,Kauppatorin huoltoaitta nro 6 ,719 Muut varastorakennukset,01,Keskusta,Kauppatori,90100,OULU,121.0,161.0,367.0,161.0,1998,0,0,0,503290
+617301,Kasarmi H10 Kuntotalo,359 Muut urheilu- ja kuntoilurakennukset,01,Keskusta,Upseerinkatu 4,90130,OULU,1218.0,1326.0,7820.0,1332.0,1997,2003,0,0,503291
+617401,"Pop-jazz -tilat (Kasarmi H11, päällystökerho)",511 Yleissivistävien oppilaitosten rakennukset,01,Keskusta,Upseerinkatu 8,90130,OULU,453.0,535.0,2140.0,535.0,1881,2010,0,0,503292
+616401,Nappi,151 Toimistorakennukset,01,Keskusta,Hallituskatu 5,90100,OULU,431.0,490.0,1798.0,350.0,1884,1999,0,0,503293
+620503,Oulunlahden koulu,511 Yleissivistävien oppilaitosten rakennukset,06,Kaakkuri,Fiskarintie 2,90410,OULU,383.0,456.0,1338.0,304.0,1950,1978,2,0,503294
+628705,"Koppanan leirikeskus, wc",041 Vapaa-ajan asuinrakennukset,40,Oulunsalo,Nenännokka 83,90470,VARJAKKA,4.0,6.0,19.0,6.0,2006,0,0,0,503295
+630802,"Poratie 8, hiekkahalli",719 Muut varastorakennukset,02,Höyhtyä,Poratie 8,90150,OULU,762.0,806.0,4513.0,778.0,1992,0,0,0,503296
+625102,"Merikosken koulu, lisärakennus",511 Yleissivistävien oppilaitosten rakennukset,08,Tuira,Itäkangastie 9,90500,OULU,960.0,1038.0,4080.0,1038.0,1999,0,0,0,503297
+620106,"Kajaanintullin koulu, lisärakennus",511 Yleissivistävien oppilaitosten rakennukset,01,Keskusta,Asemakatu 35,90100,OULU,637.0,737.0,2744.0,737.0,2000,0,0,0,503298
+622507,"Pateniemen alakoulu, liikuntarakennus",511 Yleissivistävien oppilaitosten rakennukset,11,Pateniemi,Risuniityntie 7,90800,OULU,929.0,1107.0,5510.0,1107.0,2000,0,1,0,503299
+608317,Lassin päiväkoti,231 Lasten päiväkodit,08,Tuira,Koskitie 23,90500,OULU,690.5,620.0,2664.0,595.0,1898,2000,0,0,503300
+619001,Linnanmaan harjoitusjäähalli,351 Jäähallit,12,Kaijonharju,Kauppalinnankatu 6,90570,OULU,5129.0,5341.0,39300.0,5341.0,2000,0,0,0,503301
+607901,Koskelan päiväkoti,231 Lasten päiväkodit,10,Koskela,Tuulaakitie 3,90560,OULU,1003.0,1115.0,4250.0,1115.0,2001,0,1,0,503302
+607801,Saarelan päiväkoti,231 Lasten päiväkodit,17,Hiukkavaara,Poolakuja 1,90650,OULU,1623.0,1873.0,7896.0,1873.0,2001,0,0,0,503303
+620604,"Kuivasojan koulu, liikuntasali",511 Yleissivistävien oppilaitosten rakennukset,11,Pateniemi,Pateniementie 2,90800,OULU,428.0,471.0,2280.0,415.0,2001,0,0,0,503304
+603301,"Tuiran neuvola (Hermola), Tuirantie 5",214 Terveyskeskukset,08,Tuira,Tuirantie 5,90500,OULU,701.0,812.0,3466.0,708.0,1920,2002,2,0,503305
+623601,Oulu International School / Oulun kansainvälinen koulu,511 Yleissivistävien oppilaitosten rakennukset,01,Keskusta,Kasarmintie 4,90130,OULU,9384.0,10971.0,40080.0,9966.0,1961,2006,3,0,503306
+603201,"Tuiran mielenterveyskeskus, Tuirantie 7",214 Muut terveydenhuoltorakennukset,08,Tuira,Tuirantie 7,90500,OULU,1534.0,2007.0,6310.0,1745.0,1925,2002,2,0,503307
+612201,Piilikujan ryhmäperhepäiväkoti,231 Lasten päiväkodit,06,Kaakkuri,Nuolikuja 4,90410,OULU,129.0,151.0,450.0,151.0,1992,0,1,0,503308
+612202,"Piilikujan ryhmäperhepäiväkoti, autotalli",231 Lasten päiväkodit,06,Kaakkuri,Nuolikuja 4,90410,OULU,51.0,59.0,187.0,59.0,1992,0,1,0,503309
+602101,Kaupunginsairaala,213 Muut sairaalat,03,Oulunsuu,Kiviharjuntie 5 A,90220,OULU,11122.0,12600.0,52079.0,10790.0,2002,0,3,1,503310
+602201,"Pysäköintitalo, kaupunginsairaala",163 Pysäköintitalot,03,Oulunsuu,Kiviharjuntie 5 D,90220,OULU,7130.0,7305.0,23743.0,7250.0,2002,0,3,1,503311
+600401,Kaupunginarkisto ja kirjaamo,322 Kirjastot ja arkistot,01,Keskusta,Kansankatu 55,90120,OULU,2324.0,2778.0,8200.0,2144.0,1951,2002,0,0,503312
+631201,Talvikkipuiston huoltorakennus,359 Muut urheilu- ja kuntoilurakennukset,11,Pateniemi,Tervakukkatie 54,90580,OULU,376.0,412.0,1525.0,412.0,2003,0,1,0,503313
+663701,Myllyojan-Hintan asukastupa,013 Muut erilliset pientalot,13,Myllyoja,Jokivarrenpolku 5,90650,OULU,0.0,123.0,310.0,123.0,1928,1955,2,0,503314
+663703,"Myllyojan-Hintan asukastupa, sauna",013 Muut erilliset pientalot,13,Myllyoja,Jokivarrenpolku 5,90650,OULU,0.0,11.0,35.0,11.0,1928,0,0,0,503315
+608401,Värtön päiväkoti,231 Lasten päiväkodit,03,Oulunsuu,Kurkelantie 9,90230,OULU,1603.0,1789.0,7703.0,1656.0,2003,0,1,1,503316
+622101,Heikkilänkankaan monitoimitalo,511 Yleissivistävien oppilaitosten rakennukset,07,Maikkula,Kyytipojantie 2,90310,OULU,1669.0,1778.0,7733.0,1754.0,2003,0,0,0,503317
+622102,"Heikkilänkankaan monitoimitalo, kiint.hoit. varasto ja jätekatos",511 Yleissivistävien oppilaitosten rakennukset,07,Maikkula,Kyytipojantie 2,90310,OULU,26.0,30.0,84.0,30.0,2003,0,0,0,503318
+622103,"Heikkilänkankaan monitoimitalo, pihavarasto",511 Yleissivistävien oppilaitosten rakennukset,07,Maikkula,Kyytipojantie 2,90310,OULU,0.0,16.0,59.0,16.0,2003,0,0,0,503319
+622104,"Heikkilänkankaan monitoimitalo, pihavarasto",511 Yleissivistävien oppilaitosten rakennukset,07,Maikkula,Kyytipojantie 2,90310,OULU,0.0,18.0,67.0,18.0,2003,0,0,0,503320
+621701,"Kaakkurin koulu ja Kaakonpojan päiväkoti, päärakennus",511 Yleissivistävien oppilaitosten rakennukset,06,Kaakkuri,Pesätie 15,90420,OULU,13042.0,14851.0,79781.0,13929.0,2003,0,0,0,503321
+621702,"Kaakkurin koulu ja Kaakonpojan päiväkoti, väestönsuoja",511 Yleissivistävien oppilaitosten rakennukset,06,Kaakkuri,Pesätie 15,90420,OULU,0.0,597.0,2555.0,597.0,2004,0,0,0,503322
+621703,"Kaakkurin koulu ja päiväkoti, ulkovarasto",511 Yleissivistävien oppilaitosten rakennukset,06,Kaakkuri,Pesätie 15,90420,OULU,0.0,23.0,59.0,23.0,2004,0,0,0,503323
+693101,Teknologiakylän päiväkoti,231 Lasten päiväkodit,12,Kaijonharju,Kaitoväylä 8,90570,OULU,621.0,764.0,2291.0,764.0,1990,2006,1,0,503324
+603408,"Vammaisten asumispalveluyksikkö, Weikonkoti",223 Kehitysvammaisten hoitolaitokset,08,Tuira,Kangaspolku 2,90500,OULU,360.0,438.0,1650.0,438.0,1920,2004,2,0,503325
+603407,"Vammaisten asumispalveluyksikkö, Schjerfbeck-koti",223 Kehitysvammaisten hoitolaitokset,08,Tuira,Kangaspolku 2,90500,OULU,415.0,493.0,2200.0,472.0,1920,2004,1,0,503326
+603406,"Vammaisten asumispalveluyksikkö, varasto",223 Kehitysvammaisten hoitolaitokset,08,Tuira,Kangaspolku 2,90500,OULU,87.0,88.5,380.0,88.5,1920,2004,1,0,503327
+602102,"Kaupunginsairaala, 2. vaihe",213 Muut sairaalat,03,Oulunsuu,Kiviharjuntie 5 A,90220,OULU,4559.0,5137.0,21426.0,4600.0,2004,0,4,0,503328
+623501,Talvikankaan monitoimitalo,231 Lasten päiväkodit,15,Korvensuora,Tuiskutie 10,90630,OULU,2183.0,2417.5,10080.0,2115.0,2004,0,0,0,503329
+623503,"Talvikankaan monitoimitalo, varasto ja leikkimökki",231 Lasten päiväkodit,15,Korvensuora,Tuiskutie 10,90630,OULU,45.0,61.5,210.0,61.5,2004,0,0,0,503330
+619401,Hovinsuon urheilupuiston huoltorakennus,359 Muut urheilu- ja kuntoilurakennukset,13,Myllyoja,Hintankuja 3,90650,OULU,140.0,200.0,736.0,200.0,2005,0,1,0,503331
+607902,"Koskelan päiväkoti, varasto",231 Lasten päiväkodit,10,Koskela,Tuulaakitie 3,90560,OULU,14.0,15.0,40.0,15.0,1987,0,0,0,503332

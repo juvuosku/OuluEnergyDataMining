@@ -23,3 +23,9 @@ I'm not quite sure of what it should compare but try some things and take some n
 Parameters: a dataframe, a string to indicate which column to translate.
 
 - Find a way to manage missing data, for example, "year_built" which has a lot of 0 instead of the actual year. This task would require some research so try multiple strategies and take some notes.
+
+# Research questions
+- How the building type and its characteristics (like the floor count, the year of construction or its intended use) impact its yearly energy consumption and which of these parameters are more impactful?
+- How can we cluster different profiles of energy consumption using k-means or other clustering methods?
+- How does the energy consumption varies in Oulu on a district or an entire city level through the years? Are some districts consuming more energy? Did major changes occurred at some point?
+- How far and how accurately can we forecast single or group of buildings (e.g. by district or by intended use) by using NN or ML models?
