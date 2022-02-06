@@ -39,11 +39,11 @@ class Retrospective():
                 print("You type an invalid consumption measure type.")
                 #TODO error exception
 
-        self.df = selectTimeObservation(bas_df, start_time, end_time)
+        self.consumption_df = selectTimeObservation(bas_df, start_time, end_time)
 
     def getMeanEnergy(self):
-        heat_df = self.df[self.df["consumption_measure"] == 'Heat']
-        elec_df = self.df[self.df["consumption_measure"] == 'Electricity']
+        heat_df = self.consumption_df[self.consumption_df["consumption_measure"] == 'Heat']
+        elec_df = self.consumption_df[self.consumption_df["consumption_measure"] == 'Electricity']
 
         heat_mean = heat_df["consumption"].mean()
         elec_mean = elec_df["consumption"].mean()
@@ -109,7 +109,7 @@ def selectTimeObservation(df, start_time, end_time):
 
 
 # Test
-start_date = datetime(2019, 1, 1, 0)
+"""start_date = datetime(2019, 1, 1, 0)
 end_date = datetime(2019, 1, 2, 0)
 ids = [657701]
 
@@ -117,3 +117,4 @@ retro = Retrospective(ids, start_date, end_date)
 
 retro.df.info()
 print(retro.df.head())
+"""

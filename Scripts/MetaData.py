@@ -1,13 +1,16 @@
-import csv
 import pandas as pd
 
 from deep_translator import GoogleTranslator
 
+
 class Characteristics():
-    def __init__(self, csv_file):
+    def __init__(self, csv_file=None):
         self.csv_file = csv_file
-        self.df = pd.read_csv('../ids_properties.csv')
-        translateConsumption(self.df)
+        if not csv_file:
+            self.metadata_df = pd.read_csv('../ids_properties.csv')
+        else:
+            self.metadata_df = pd.read_csv(csv_file)
+        translateConsumption(self.metadata_df)
 
 
 def translateConsumption(df):
@@ -31,11 +34,10 @@ def translateConsumption(df):
 
 
 # Test
-meta_df = pd.read_csv('../ids_properties.csv')
-translateConsumption(meta_df)
+# meta_df = pd.read_csv('../ids_properties.csv')
+# translateConsumption(meta_df)
 
-print(meta_df.head())
+"""print(meta_df.head())
 
 print("The most occurring building intended uses:")
-print(meta_df["intended_use"].value_counts(dropna=False)[0:10])
-
+print(meta_df["intended_use"].value_counts(dropna=False)[0:10])"""
