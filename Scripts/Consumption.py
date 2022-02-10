@@ -6,7 +6,7 @@ hourly_url = "https://api.ouka.fi/v1/properties_consumption_hourly"
 
 
 class Retrospective():
-    def __init__(self, property_ids, start_time, end_time, energy_type=None):
+    def __init__(self, property_ids, start_time, end_time, energy_type=["Heat", "Electricity"]):
         """
         Create a dataframe containing the energy consumption of properties
         listed by their ids during a precise time interval.
@@ -30,27 +30,40 @@ class Retrospective():
 
         replaceTime(bas_df)
 
-        if energy_type:
-            if energy_type == "Heat" or energy_type == "heat":
+        translateConsumption(bas_df)
+
+        # if only one energy type is selected, we have to drop columns which energy type isn't valid anymore
+        if len(energy_type) < 2:
+            if "Heat" in energy_type or "heat" in energy_type:
                 bas_df = bas_df[bas_df["consumption_measure"] == 'Heat']
-            if energy_type == "Electricity" or energy_type == "electricity":
+            elif "Electricity" in energy_type or "electricity" in energy_type:
                 bas_df = bas_df[bas_df["consumption_measure"] == 'Electricity']
             else:
                 print("You type an invalid consumption measure type.")
-                #TODO error exception
+                # TODO error exception
 
         self.consumption_df = selectTimeObservation(bas_df, start_time, end_time)
 
-    def getMeanEnergy(self):
-        heat_df = self.consumption_df[self.consumption_df["consumption_measure"] == 'Heat']
-        elec_df = self.consumption_df[self.consumption_df["consumption_measure"] == 'Electricity']
+    def getMeanEnergyByProperty(self, single_id):
+        """
+        Returns the average consumption of one property (chosen by its id)
+        """
+        energy_types = self.energy_type
+        energy_means = []
 
-        heat_mean = heat_df["consumption"].mean()
-        elec_mean = elec_df["consumption"].mean()
+        print("energy_types")
+        print(energy_types)
+        for energy_type in energy_types:
+            sub_df = self.consumption_df[self.consumption_df["consumption_measure"] == energy_type]
+            energy_means.append(sub_df["consumption"].mean())
 
-        return heat_mean, elec_mean
+        # heat_df = self.consumption_df[self.consumption_df["property_id"] == single_id and self.consumption_df["consumption_measure"] == 'Heat']
+        # elec_df = self.consumption_df[self.consumption_df["property_id"] == single_id and self.consumption_df["consumption_measure"] == 'Electricity']
 
+        # heat_mean = heat_df["consumption"].mean()
+        # elec_mean = elec_df["consumption"].mean()
 
+        return energy_means
 
 
 def retrievePropertiesConsumptionByYear(ids, years):
@@ -108,13 +121,21 @@ def selectTimeObservation(df, start_time, end_time):
     return df.loc[(df['datetime'] >= start_time) & (df['datetime'] < end_time)]
 
 
+def translateConsumption(df):
+    df["consumption_measure"].replace({"Lämpö": "Heat", "Sähkö": "Electricity"}, inplace=True)
+
+
 # Test
-"""start_date = datetime(2019, 1, 1, 0)
-end_date = datetime(2019, 1, 2, 0)
-ids = [657701]
+start_date = datetime(2019, 1, 1, 0)
+end_date = datetime(2019, 6, 1, 0)
+ids = [622506, 665601]
 
 retro = Retrospective(ids, start_date, end_date)
 
-retro.df.info()
-print(retro.df.head())
-"""
+retro.consumption_df.info()
+
+print("Properties' id")
+print(retro.consumption_df["property_id"].value_counts(dropna=False))
+
+print("Consumption average of property 622506")
+print(retro.getMeanEnergyByProperty(622506))

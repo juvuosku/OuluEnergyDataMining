@@ -42,3 +42,20 @@ The second question is probably too ambitious, we will probably miss the needed 
 So we shouldn't be able to notice that major changes in only a couple of years.
 
 However, we could use some of 2nd question's sub-questions to add some analysis to the first research question.
+
+
+
+
+So the final question could be:
+
+How do the buildings' characteristics (floorcount, year of construction, district), or their location in the city impact their yearly energy consumption, which ones are the most impactful and can we cluster some of these consumption profiles and identify more consumptive districts using k-means or similar methods?
+
+This question would have multiple steps:
+
+Analysing building's charachteristics one by one and look for change in the consumption values according to their values.
+
+The building's district is also a part of these charachteristics but more complex to analyse, so this will need more work.
+
+They will also need the data to be clean as we go, we won't be able to predict every preprocessing steps from the begininng.
+
+Finally, we will have to find a way to use clusterization methods to identify some consumption profiles.

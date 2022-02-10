@@ -1,4 +1,7 @@
 import pandas as pd
+import numpy as np
+from numpy import asarray
+from numpy import savetxt
 
 from deep_translator import GoogleTranslator
 
@@ -34,10 +37,14 @@ def translateConsumption(df):
 
 
 # Test
-# meta_df = pd.read_csv('../ids_properties.csv')
-# translateConsumption(meta_df)
+meta_df = pd.read_csv('../ids_properties.csv')
+translateConsumption(meta_df)
 
-"""print(meta_df.head())
+print(meta_df.head())
 
 print("The most occurring building intended uses:")
-print(meta_df["intended_use"].value_counts(dropna=False)[0:10])"""
+print(meta_df["intended_use"].value_counts(dropna=False)[0:10])
+
+print("Properties' id")
+unique_ids = asarray([ meta_df["property_id"].unique() ])
+savetxt('unique_ids.csv', unique_ids, delimiter=',')

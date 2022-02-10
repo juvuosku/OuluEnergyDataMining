@@ -38,15 +38,20 @@ print(meansByFloorcount)
 
 # To get the final means by floorcount
 means = []
-for k, v in meansByFloorcount.items():
+for floorMeans in meansByFloorcount.values():
     heat_mean = 0
     elec_mean = 0
+    print("YAAAAA")
+    print(floorMeans)
+    print(str(floorMeans))
 
-    for mean in v:
+    """for mean in floorMeans:
+
         heat_mean += mean[0]
         elec_mean += mean[1]
 
-    means.append((heat_mean / len(v), elec_mean / len(v)))
+    means.append((heat_mean / len(v), elec_mean / len(v)))"""
+    #Put that in Consumption class as a method
 
 print("Final consumption means by floorcount, (heat, electricity)")
-print(meansByFloorcount)
+#print(meansByFloorcount)
