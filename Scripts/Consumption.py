@@ -46,22 +46,17 @@ class Retrospective():
 
     def getMeanEnergyByProperty(self, single_id):
         """
-        Returns the average consumption of one property (chosen by its id)
+        Returns the average (heat and electricity if both are selected) consumption of one property (chosen by its id)
         """
         energy_types = self.energy_type
         energy_means = []
 
-        print("energy_types")
-        print(energy_types)
+        single_id_df = self.consumption_df[self.consumption_df["property_id"] == single_id]
+
         for energy_type in energy_types:
-            sub_df = self.consumption_df[self.consumption_df["consumption_measure"] == energy_type]
-            energy_means.append(sub_df["consumption"].mean())
+            energy_df = single_id_df[(single_id_df["consumption_measure"] == energy_type)]
 
-        # heat_df = self.consumption_df[self.consumption_df["property_id"] == single_id and self.consumption_df["consumption_measure"] == 'Heat']
-        # elec_df = self.consumption_df[self.consumption_df["property_id"] == single_id and self.consumption_df["consumption_measure"] == 'Electricity']
-
-        # heat_mean = heat_df["consumption"].mean()
-        # elec_mean = elec_df["consumption"].mean()
+            energy_means.append(energy_df["consumption"].mean())
 
         return energy_means
 
@@ -126,9 +121,9 @@ def translateConsumption(df):
 
 
 # Test
-start_date = datetime(2019, 1, 1, 0)
-end_date = datetime(2019, 6, 1, 0)
-ids = [622506, 665601]
+start_date = datetime(2018, 1, 1, 0)
+end_date = datetime(2020, 1, 1, 0)
+ids = [657701, 619401]
 
 retro = Retrospective(ids, start_date, end_date)
 
