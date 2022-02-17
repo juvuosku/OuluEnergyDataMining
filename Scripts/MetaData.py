@@ -8,15 +8,16 @@ from deep_translator import GoogleTranslator
 
 class Characteristics():
     def __init__(self, csv_file=None):
-        self.csv_file = csv_file
+        """self.csv_file = csv_file
         if not csv_file:
             self.metadata_df = pd.read_csv('../ids_properties.csv')
         else:
             self.metadata_df = pd.read_csv(csv_file)
-        translateConsumption(self.metadata_df)
+        translateIntendedUse(self.metadata_df)"""
+        self.metadata_df = pd.read_pickle("../translated_metadata.pkl")
 
 
-def translateConsumption(df):
+def translateIntendedUse(df):
     # Saving the intended uses
     useDf = df["intended_use"].values.tolist()
 
@@ -37,7 +38,7 @@ def translateConsumption(df):
 
 
 # Test
-meta_df = pd.read_csv('../ids_properties.csv')
+"""meta_df = pd.read_csv('../ids_properties.csv')
 translateConsumption(meta_df)
 
 print(meta_df.head())
@@ -47,4 +48,4 @@ print(meta_df["intended_use"].value_counts(dropna=False)[0:10])
 
 print("Properties' id")
 unique_ids = asarray([ meta_df["property_id"].unique() ])
-savetxt('unique_ids.csv', unique_ids, delimiter=',')
+savetxt('unique_ids.csv', unique_ids, delimiter=',')"""

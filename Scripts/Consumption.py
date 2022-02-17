@@ -6,7 +6,7 @@ hourly_url = "https://api.ouka.fi/v1/properties_consumption_hourly"
 
 
 class Retrospective():
-    def __init__(self, property_ids, start_time, end_time, energy_type=["Heat", "Electricity"]):
+    def __init__(self, property_ids, start_time, end_time, dropna=False):
         """
         Create a dataframe containing the energy consumption of properties
         listed by their ids during a precise time interval.
@@ -16,7 +16,7 @@ class Retrospective():
         self.property_ids = property_ids
         self.start_time = start_time
         self.end_time = end_time
-        self.energy_type = energy_type
+        self.energy_type = ["Heat", "Electricity"]
 
         start_year = start_time.year
         end_year = end_time.year
@@ -28,21 +28,33 @@ class Retrospective():
 
         bas_df = retrievePropertiesConsumptionByYear(property_ids, years)
 
-        replaceTime(bas_df)
+        if not bas_df.empty:
 
-        translateConsumption(bas_df)
+            replaceTime(bas_df)
 
-        # if only one energy type is selected, we have to drop columns which energy type isn't valid anymore
-        if len(energy_type) < 2:
-            if "Heat" in energy_type or "heat" in energy_type:
-                bas_df = bas_df[bas_df["consumption_measure"] == 'Heat']
-            elif "Electricity" in energy_type or "electricity" in energy_type:
-                bas_df = bas_df[bas_df["consumption_measure"] == 'Electricity']
-            else:
-                print("You type an invalid consumption measure type.")
-                # TODO error exception
+            translateConsumption(bas_df)
 
-        self.consumption_df = selectTimeObservation(bas_df, start_time, end_time)
+            bas_df = selectTimeObservation(bas_df, start_time, end_time)
+
+            if dropna:
+                bas_df.dropna(inplace=True)
+
+            # if only one energy type is selected, we have to drop columns which energy type isn't valid anymore
+            """if len(self.energy_type)<2:
+                if "Heat" in energy_type or "heat" in energy_type:
+                    bas_df = bas_df[bas_df["consumption_measure"] == 'Heat']
+                elif "Electricity" in energy_type or "electricity" in energy_type:
+                    bas_df = bas_df[bas_df["consumption_measure"] == 'Electricity']
+                else:
+                    print("You type an invalid consumption measure type.")"""
+            # TODO error exception
+
+            self.consumption_df = bas_df
+
+        else:
+            column_names = ['property_id', 'property_internal_id', 'property_name',
+                            'consumption_measure', 'consumption', 'keyfield', 'datetime']
+            self.consumption_df = pd.DataFrame(columns=column_names)
 
     def getMeanEnergyByProperty(self, single_id):
         """
@@ -59,6 +71,15 @@ class Retrospective():
             energy_means.append(energy_df["consumption"].mean())
 
         return energy_means
+
+    def getMeanEnergyByPropertyDF(self, single_id):
+        """
+        Returns the average (heat and electricity if both are selected) consumption of one property (chosen by its id) as a Dataframe
+        """
+        energy_types = self.energy_type
+        energy_means = []
+
+        single_id_df = self.consumption_df[self.consumption_df["property_id"] == single_id]
 
 
 def retrievePropertiesConsumptionByYear(ids, years):
@@ -121,7 +142,7 @@ def translateConsumption(df):
 
 
 # Test
-start_date = datetime(2018, 1, 1, 0)
+"""start_date = datetime(2018, 1, 1, 0)
 end_date = datetime(2020, 1, 1, 0)
 ids = [657701, 619401]
 
@@ -133,4 +154,4 @@ print("Properties' id")
 print(retro.consumption_df["property_id"].value_counts(dropna=False))
 
 print("Consumption average of property 622506")
-print(retro.getMeanEnergyByProperty(622506))
+print(retro.getMeanEnergyByProperty(622506))"""
